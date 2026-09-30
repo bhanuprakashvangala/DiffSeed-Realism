@@ -1,0 +1,199 @@
+{
+  "recorded_utc": "2026-08-25T06:06:55Z",
+  "config": {
+    "data_root": "<redacted local path>",
+    "out_root": "<redacted local path>",
+    "tier": "standard",
+    "seed": 42,
+    "classifier_seeds": [
+      0,
+      1,
+      2
+    ],
+    "scarcity_levels": [
+      25,
+      50,
+      100,
+      200
+    ],
+    "headline_scarcity": 100,
+    "macro_prefix": "DS",
+    "test_frac": 0.2,
+    "val_frac": 0.1,
+    "grid_methods": [
+      "trad",
+      "sd_lora",
+      "ddpm_fixed"
+    ],
+    "extra_methods": [
+      "dcgan",
+      "fastgan",
+      "ddpm_v1",
+      "ddpm_ft",
+      "sd_lora_sdedit",
+      "sd_turbo_lora"
+    ],
+    "n_synth_per_class": 400,
+    "n_eval_synth": 1000,
+    "ratio_sweep": [
+      0,
+      25,
+      50,
+      100,
+      200,
+      400
+    ],
+    "ddpm_res": 128,
+    "ddpm_steps": 8500,
+    "ddpm_epochs": 100,
+    "ddpm_batch": 32,
+    "ddpm_lr": 0.0002,
+    "ddpm_ema_decay": 0.9995,
+    "ddpm_cond_dropout": 0.1,
+    "ddpm_channels": [
+      96,
+      192,
+      288,
+      384
+    ],
+    "ddpm_sample_steps": 500,
+    "ddpm_guidance": 2.0,
+    "ddpm_ft_model": "google/ddpm-celebahq-256",
+    "sd_model": "runwayml/stable-diffusion-v1-5",
+    "sd_turbo_model": "stabilityai/sd-turbo",
+    "sd_res": 512,
+    "sd_lora_rank": 16,
+    "sd_lora_alpha": 16,
+    "sd_lora_targets": [
+      "to_q",
+      "to_k",
+      "to_v",
+      "to_out.0"
+    ],
+    "sd_steps": 3000,
+    "sd_batch": 4,
+    "sd_grad_accum": 1,
+    "sd_lr": 0.0001,
+    "sd_text_dropout": 0.1,
+    "sd_latent_variants": 8,
+    "sd_sample_steps": 25,
+    "sd_guidance": 5.0,
+    "sdedit_strength": 0.6,
+    "clf_models": [
+      "resnet50",
+      "efficientnetv2_s",
+      "convnext_tiny",
+      "vit_b16",
+      "swin_tiny"
+    ],
+    "clf_headline": "resnet50",
+    "zoo_conditions": [
+      "none",
+      "trad",
+      "ddpm_fixed",
+      "sd_lora",
+      "oracle"
+    ],
+    "clf_res": 224,
+    "clf_epochs": 30,
+    "clf_batch": 32,
+    "clf_lr": 0.0001,
+    "clf_label_smoothing": 0.1,
+    "amp_dtype": "bf16",
+    "channels_last": true,
+    "compile_model": false,
+    "grad_checkpoint": false,
+    "use_8bit_adam": false,
+    "num_workers": 6,
+    "filter_keep_frac": 0.6,
+    "strict_repro": false,
+    "fid_n_curve": [
+      100,
+      200,
+      500,
+      1000,
+      2000
+    ],
+    "clip_model": "openai/clip-vit-large-patch14",
+    "prdc_k": 5,
+    "device": "cuda"
+  },
+  "code": {
+    "combined": "2df5eb0c7bed7dc9",
+    "n_files": 22,
+    "files": {
+      "__init__.py": "77f59f33fe41b092",
+      "_vendor_macros.py": "17d824b00f052ecf",
+      "_vendor_printsafe.py": "92142962228ca885",
+      "_vendor_repro.py": "672a42cd0381bdb4",
+      "analyze.py": "1448ea885982aa69",
+      "bench.py": "a471a03f1dda4b91",
+      "classify.py": "2e3a4ba414809d1e",
+      "config.py": "c94361c34bb20892",
+      "data.py": "bcd50f6d8ade78a8",
+      "figures.py": "a68ffdfbc083741f",
+      "filtering.py": "c3e65c35d1cee71b",
+      "generators/__init__.py": "06220fdc41334dce",
+      "generators/gans.py": "7d2794bb09cd5dcf",
+      "generators/pixel_ddpm.py": "30353dc3ac2c91cd",
+      "generators/sd_lora.py": "3115860b6e37329b",
+      "macros.py": "1e91c76a1daba6b3",
+      "metrics.py": "5741105f35ef9415",
+      "printsafe.py": "5338b2b30b3c0816",
+      "repro.py": "dc3f06fcbc96b05f",
+      "run.py": "4b65733b019cde56",
+      "sampler_diag.py": "04508dd58bc98eed",
+      "stats.py": "71d40830b7d2db24"
+    }
+  },
+  "environment": {
+    "python": "3.12.10",
+    "platform": "Linux-6.8.0-1052-aws-x86_64-with-glibc2.35",
+    "processor": "x86_64",
+    "torch_cuda": "12.8",
+    "cudnn": 91002,
+    "gpu": {
+      "name": "NVIDIA A10G",
+      "total_memory_gb": 23.68,
+      "capability": "8.6",
+      "count": 1,
+      "driver": "580.126.09"
+    },
+    "packages": {
+      "torch": "2.7.0+cu128",
+      "torchvision": "0.22.0+cu128",
+      "diffusers": "0.40.0",
+      "transformers": "5.15.1",
+      "peft": "0.20.0",
+      "accelerate": "1.14.0",
+      "timm": "1.0.28",
+      "numpy": "2.4.4",
+      "scipy": "1.17.1",
+      "scikit-learn": "1.8.0",
+      "scikit-image": "0.26.0",
+      "pandas": "2.3.3",
+      "matplotlib": "3.10.9",
+      "Pillow": "12.2.0",
+      "clean-fid": "0.1.35",
+      "lpips": "0.1.4",
+      "safetensors": "0.8.0",
+      "captum": "0.9.0",
+      "grad-cam": null,
+      "lime": null
+    }
+  },
+  "determinism": {
+    "seed": 42,
+    "strict": false,
+    "deterministic_algorithms": false,
+    "cudnn_benchmark": true,
+    "cudnn_deterministic": false,
+    "tf32_matmul": true
+  },
+  "dataset": {
+    "root": "<redacted local path>",
+    "n_files": 5513,
+    "total_bytes": 90238975,
+    "inventory_sha256": "993a4b377f19049d"
+  }
+}

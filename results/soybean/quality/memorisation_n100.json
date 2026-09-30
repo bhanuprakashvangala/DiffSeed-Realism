@@ -1,0 +1,2418 @@
+{
+ "sd_lora": [
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00000.png",
+   "real_reference/n100/Broken soybeans/real_00097.png",
+   0.4599829316139221
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00001.png",
+   "real_reference/n100/Broken soybeans/real_00176.png",
+   0.5915346145629883
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00002.png",
+   "real_reference/n100/Broken soybeans/real_00159.png",
+   0.5947595834732056
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00003.png",
+   "real_reference/n100/Broken soybeans/real_00049.png",
+   0.595996618270874
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00004.png",
+   "real_reference/n100/Broken soybeans/real_00125.png",
+   0.5554689168930054
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00005.png",
+   "real_reference/n100/Broken soybeans/real_00012.png",
+   0.6047667264938354
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00006.png",
+   "real_reference/n100/Broken soybeans/real_00036.png",
+   0.5631970167160034
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00007.png",
+   "real_reference/n100/Broken soybeans/real_00139.png",
+   0.554529070854187
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00008.png",
+   "real_reference/n100/Broken soybeans/real_00195.png",
+   0.5936416387557983
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00009.png",
+   "real_reference/n100/Broken soybeans/real_00073.png",
+   0.5876774191856384
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00010.png",
+   "real_reference/n100/Broken soybeans/real_00191.png",
+   0.5997495651245117
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00011.png",
+   "real_reference/n100/Broken soybeans/real_00006.png",
+   0.5804076790809631
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00012.png",
+   "real_reference/n100/Broken soybeans/real_00195.png",
+   0.5847012400627136
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00013.png",
+   "real_reference/n100/Broken soybeans/real_00195.png",
+   0.5939608812332153
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00014.png",
+   "real_reference/n100/Broken soybeans/real_00036.png",
+   0.5818890333175659
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00015.png",
+   "real_reference/n100/Broken soybeans/real_00033.png",
+   0.5984659790992737
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00016.png",
+   "real_reference/n100/Broken soybeans/real_00194.png",
+   0.5847047567367554
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00017.png",
+   "real_reference/n100/Broken soybeans/real_00154.png",
+   0.599163293838501
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00018.png",
+   "real_reference/n100/Broken soybeans/real_00084.png",
+   0.5491077899932861
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00019.png",
+   "real_reference/n100/Broken soybeans/real_00091.png",
+   0.5410379767417908
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00020.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5651904940605164
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00021.png",
+   "real_reference/n100/Broken soybeans/real_00106.png",
+   0.6413502097129822
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00022.png",
+   "real_reference/n100/Broken soybeans/real_00020.png",
+   0.549617350101471
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00023.png",
+   "real_reference/n100/Broken soybeans/real_00001.png",
+   0.5996896028518677
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00024.png",
+   "real_reference/n100/Broken soybeans/real_00113.png",
+   0.5555663704872131
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00025.png",
+   "real_reference/n100/Broken soybeans/real_00153.png",
+   0.5295156240463257
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00026.png",
+   "real_reference/n100/Broken soybeans/real_00176.png",
+   0.583865225315094
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00027.png",
+   "real_reference/n100/Broken soybeans/real_00020.png",
+   0.6048763990402222
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00028.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5649669766426086
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00029.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.6432993412017822
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00030.png",
+   "real_reference/n100/Broken soybeans/real_00187.png",
+   0.5469152331352234
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00031.png",
+   "real_reference/n100/Broken soybeans/real_00031.png",
+   0.5855850577354431
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00032.png",
+   "real_reference/n100/Broken soybeans/real_00024.png",
+   0.5739518404006958
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00033.png",
+   "real_reference/n100/Broken soybeans/real_00176.png",
+   0.548798143863678
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00034.png",
+   "real_reference/n100/Broken soybeans/real_00103.png",
+   0.6238318681716919
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00035.png",
+   "real_reference/n100/Broken soybeans/real_00101.png",
+   0.5586594939231873
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00036.png",
+   "real_reference/n100/Broken soybeans/real_00032.png",
+   0.6045833826065063
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00037.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5867170691490173
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00038.png",
+   "real_reference/n100/Broken soybeans/real_00036.png",
+   0.49646615982055664
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00039.png",
+   "real_reference/n100/Broken soybeans/real_00141.png",
+   0.5616167783737183
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00040.png",
+   "real_reference/n100/Broken soybeans/real_00196.png",
+   0.5990689396858215
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00041.png",
+   "real_reference/n100/Broken soybeans/real_00059.png",
+   0.5506236553192139
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00042.png",
+   "real_reference/n100/Broken soybeans/real_00124.png",
+   0.5597318410873413
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00043.png",
+   "real_reference/n100/Broken soybeans/real_00127.png",
+   0.5813177824020386
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00044.png",
+   "real_reference/n100/Broken soybeans/real_00169.png",
+   0.5666267275810242
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00045.png",
+   "real_reference/n100/Broken soybeans/real_00059.png",
+   0.5724581480026245
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00046.png",
+   "real_reference/n100/Broken soybeans/real_00113.png",
+   0.5996149778366089
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00047.png",
+   "real_reference/n100/Broken soybeans/real_00138.png",
+   0.5599460005760193
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00048.png",
+   "real_reference/n100/Broken soybeans/real_00084.png",
+   0.5790055394172668
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00049.png",
+   "real_reference/n100/Broken soybeans/real_00033.png",
+   0.5768104791641235
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00050.png",
+   "real_reference/n100/Broken soybeans/real_00033.png",
+   0.5772414207458496
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00051.png",
+   "real_reference/n100/Broken soybeans/real_00175.png",
+   0.579861581325531
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00052.png",
+   "real_reference/n100/Broken soybeans/real_00007.png",
+   0.5831387042999268
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00053.png",
+   "real_reference/n100/Broken soybeans/real_00103.png",
+   0.5492016673088074
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00054.png",
+   "real_reference/n100/Broken soybeans/real_00049.png",
+   0.579678475856781
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00055.png",
+   "real_reference/n100/Broken soybeans/real_00055.png",
+   0.5868017077445984
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00056.png",
+   "real_reference/n100/Broken soybeans/real_00021.png",
+   0.5540784597396851
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00057.png",
+   "real_reference/n100/Broken soybeans/real_00021.png",
+   0.5365424156188965
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00058.png",
+   "real_reference/n100/Broken soybeans/real_00074.png",
+   0.5698487758636475
+  ],
+  [
+   "synthetic/n100/sd_lora/Broken soybeans/sd_lora_00059.png",
+   "real_reference/n100/Broken soybeans/real_00065.png",
+   0.53143709897995
+  ]
+ ],
+ "ddpm_fixed": [
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00000.png",
+   "real_reference/n100/Broken soybeans/real_00157.png",
+   0.5481557250022888
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00001.png",
+   "real_reference/n100/Broken soybeans/real_00147.png",
+   0.5121150612831116
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00002.png",
+   "real_reference/n100/Broken soybeans/real_00031.png",
+   0.5461432337760925
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00003.png",
+   "real_reference/n100/Broken soybeans/real_00064.png",
+   0.50254225730896
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00004.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.46890899538993835
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00005.png",
+   "real_reference/n100/Broken soybeans/real_00084.png",
+   0.5465040802955627
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00006.png",
+   "real_reference/n100/Broken soybeans/real_00062.png",
+   0.5549849271774292
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00007.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.4860678017139435
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00008.png",
+   "real_reference/n100/Broken soybeans/real_00031.png",
+   0.5917087197303772
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00009.png",
+   "real_reference/n100/Broken soybeans/real_00168.png",
+   0.5489866733551025
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00010.png",
+   "real_reference/n100/Broken soybeans/real_00036.png",
+   0.5936098694801331
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00011.png",
+   "real_reference/n100/Broken soybeans/real_00036.png",
+   0.4886696934700012
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00012.png",
+   "real_reference/n100/Broken soybeans/real_00038.png",
+   0.4593598544597626
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00013.png",
+   "real_reference/n100/Broken soybeans/real_00064.png",
+   0.49619680643081665
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00014.png",
+   "real_reference/n100/Broken soybeans/real_00062.png",
+   0.5035639405250549
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00015.png",
+   "real_reference/n100/Broken soybeans/real_00049.png",
+   0.5263182520866394
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00016.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5322014689445496
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00017.png",
+   "real_reference/n100/Broken soybeans/real_00083.png",
+   0.5043507814407349
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00018.png",
+   "real_reference/n100/Broken soybeans/real_00083.png",
+   0.45328497886657715
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00019.png",
+   "real_reference/n100/Broken soybeans/real_00054.png",
+   0.4898439645767212
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00020.png",
+   "real_reference/n100/Broken soybeans/real_00116.png",
+   0.5353881120681763
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00021.png",
+   "real_reference/n100/Broken soybeans/real_00036.png",
+   0.4586765766143799
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00022.png",
+   "real_reference/n100/Broken soybeans/real_00036.png",
+   0.5249466896057129
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00023.png",
+   "real_reference/n100/Broken soybeans/real_00090.png",
+   0.567230224609375
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00024.png",
+   "real_reference/n100/Broken soybeans/real_00036.png",
+   0.4749337434768677
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00025.png",
+   "real_reference/n100/Broken soybeans/real_00062.png",
+   0.5471011996269226
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00026.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5537893772125244
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00027.png",
+   "real_reference/n100/Broken soybeans/real_00127.png",
+   0.5590288639068604
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00028.png",
+   "real_reference/n100/Broken soybeans/real_00047.png",
+   0.5404463410377502
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00029.png",
+   "real_reference/n100/Broken soybeans/real_00017.png",
+   0.5574547648429871
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00030.png",
+   "real_reference/n100/Broken soybeans/real_00109.png",
+   0.472799152135849
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00031.png",
+   "real_reference/n100/Broken soybeans/real_00065.png",
+   0.4862649440765381
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00032.png",
+   "real_reference/n100/Broken soybeans/real_00047.png",
+   0.4612228274345398
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00033.png",
+   "real_reference/n100/Broken soybeans/real_00155.png",
+   0.4821699857711792
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00034.png",
+   "real_reference/n100/Broken soybeans/real_00084.png",
+   0.4323074221611023
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00035.png",
+   "real_reference/n100/Broken soybeans/real_00135.png",
+   0.489229291677475
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00036.png",
+   "real_reference/n100/Broken soybeans/real_00027.png",
+   0.49868810176849365
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00037.png",
+   "real_reference/n100/Broken soybeans/real_00036.png",
+   0.4731248617172241
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00038.png",
+   "real_reference/n100/Broken soybeans/real_00036.png",
+   0.5304337739944458
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00039.png",
+   "real_reference/n100/Broken soybeans/real_00073.png",
+   0.5456269383430481
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00040.png",
+   "real_reference/n100/Broken soybeans/real_00135.png",
+   0.4731386601924896
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00041.png",
+   "real_reference/n100/Broken soybeans/real_00033.png",
+   0.5019221305847168
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00042.png",
+   "real_reference/n100/Broken soybeans/real_00138.png",
+   0.5396193861961365
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00043.png",
+   "real_reference/n100/Broken soybeans/real_00139.png",
+   0.4596378207206726
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00044.png",
+   "real_reference/n100/Broken soybeans/real_00084.png",
+   0.5771651864051819
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00045.png",
+   "real_reference/n100/Broken soybeans/real_00116.png",
+   0.5757502317428589
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00046.png",
+   "real_reference/n100/Broken soybeans/real_00110.png",
+   0.43252646923065186
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00047.png",
+   "real_reference/n100/Broken soybeans/real_00102.png",
+   0.3989814817905426
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00048.png",
+   "real_reference/n100/Broken soybeans/real_00098.png",
+   0.4722500145435333
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00049.png",
+   "real_reference/n100/Broken soybeans/real_00021.png",
+   0.48835331201553345
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00050.png",
+   "real_reference/n100/Broken soybeans/real_00116.png",
+   0.4852145314216614
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00051.png",
+   "real_reference/n100/Broken soybeans/real_00151.png",
+   0.5085420608520508
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00052.png",
+   "real_reference/n100/Broken soybeans/real_00132.png",
+   0.5193559527397156
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00053.png",
+   "real_reference/n100/Broken soybeans/real_00116.png",
+   0.5628641843795776
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00054.png",
+   "real_reference/n100/Broken soybeans/real_00084.png",
+   0.5134780406951904
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00055.png",
+   "real_reference/n100/Broken soybeans/real_00062.png",
+   0.5335487127304077
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00056.png",
+   "real_reference/n100/Broken soybeans/real_00116.png",
+   0.48984813690185547
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00057.png",
+   "real_reference/n100/Broken soybeans/real_00112.png",
+   0.5817278027534485
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00058.png",
+   "real_reference/n100/Broken soybeans/real_00062.png",
+   0.515320897102356
+  ],
+  [
+   "synthetic/n100/ddpm_fixed/Broken soybeans/fixed_00059.png",
+   "real_reference/n100/Broken soybeans/real_00040.png",
+   0.4745495915412903
+  ]
+ ],
+ "dcgan": [
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00000.png",
+   "real_reference/n100/Broken soybeans/real_00098.png",
+   0.523406982421875
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00001.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.47902268171310425
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00002.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.4588916301727295
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00003.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.4639551043510437
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00004.png",
+   "real_reference/n100/Broken soybeans/real_00102.png",
+   0.4868070185184479
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00005.png",
+   "real_reference/n100/Broken soybeans/real_00167.png",
+   0.4937022924423218
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00006.png",
+   "real_reference/n100/Broken soybeans/real_00098.png",
+   0.4585653841495514
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00007.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.5150420665740967
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00008.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.4437684416770935
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00009.png",
+   "real_reference/n100/Broken soybeans/real_00102.png",
+   0.46461814641952515
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00010.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.45887869596481323
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00011.png",
+   "real_reference/n100/Broken soybeans/real_00107.png",
+   0.47183358669281006
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00012.png",
+   "real_reference/n100/Broken soybeans/real_00083.png",
+   0.4034150242805481
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00013.png",
+   "real_reference/n100/Broken soybeans/real_00085.png",
+   0.40647104382514954
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00014.png",
+   "real_reference/n100/Broken soybeans/real_00167.png",
+   0.4778977632522583
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00015.png",
+   "real_reference/n100/Broken soybeans/real_00085.png",
+   0.45028945803642273
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00016.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.40139997005462646
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00017.png",
+   "real_reference/n100/Broken soybeans/real_00098.png",
+   0.512866735458374
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00018.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.37368130683898926
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00019.png",
+   "real_reference/n100/Broken soybeans/real_00103.png",
+   0.5716942548751831
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00020.png",
+   "real_reference/n100/Broken soybeans/real_00085.png",
+   0.46523553133010864
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00021.png",
+   "real_reference/n100/Broken soybeans/real_00083.png",
+   0.4650183916091919
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00022.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.44827693700790405
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00023.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.4807972311973572
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00024.png",
+   "real_reference/n100/Broken soybeans/real_00077.png",
+   0.47163447737693787
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00025.png",
+   "real_reference/n100/Broken soybeans/real_00034.png",
+   0.424826979637146
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00026.png",
+   "real_reference/n100/Broken soybeans/real_00102.png",
+   0.4534541666507721
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00027.png",
+   "real_reference/n100/Broken soybeans/real_00034.png",
+   0.4698074162006378
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00028.png",
+   "real_reference/n100/Broken soybeans/real_00085.png",
+   0.41666439175605774
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00029.png",
+   "real_reference/n100/Broken soybeans/real_00102.png",
+   0.43863561749458313
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00030.png",
+   "real_reference/n100/Broken soybeans/real_00085.png",
+   0.39092206954956055
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00031.png",
+   "real_reference/n100/Broken soybeans/real_00145.png",
+   0.4873526990413666
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00032.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.4547405242919922
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00033.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.44512268900871277
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00034.png",
+   "real_reference/n100/Broken soybeans/real_00077.png",
+   0.5170131921768188
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00035.png",
+   "real_reference/n100/Broken soybeans/real_00034.png",
+   0.5092085599899292
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00036.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.3921111226081848
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00037.png",
+   "real_reference/n100/Broken soybeans/real_00117.png",
+   0.4507012963294983
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00038.png",
+   "real_reference/n100/Broken soybeans/real_00047.png",
+   0.45138102769851685
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00039.png",
+   "real_reference/n100/Broken soybeans/real_00095.png",
+   0.517055094242096
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00040.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.4649825096130371
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00041.png",
+   "real_reference/n100/Broken soybeans/real_00034.png",
+   0.47351711988449097
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00042.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.5188506841659546
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00043.png",
+   "real_reference/n100/Broken soybeans/real_00107.png",
+   0.4694116711616516
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00044.png",
+   "real_reference/n100/Broken soybeans/real_00077.png",
+   0.4902026951313019
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00045.png",
+   "real_reference/n100/Broken soybeans/real_00077.png",
+   0.5187458992004395
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00046.png",
+   "real_reference/n100/Broken soybeans/real_00024.png",
+   0.5307313203811646
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00047.png",
+   "real_reference/n100/Broken soybeans/real_00142.png",
+   0.5283316969871521
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00048.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.43368130922317505
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00049.png",
+   "real_reference/n100/Broken soybeans/real_00034.png",
+   0.4828200936317444
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00050.png",
+   "real_reference/n100/Broken soybeans/real_00104.png",
+   0.4571830630302429
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00051.png",
+   "real_reference/n100/Broken soybeans/real_00003.png",
+   0.48547694087028503
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00052.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.4310973882675171
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00053.png",
+   "real_reference/n100/Broken soybeans/real_00102.png",
+   0.39472293853759766
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00054.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.4578832983970642
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00055.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.32096168398857117
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00056.png",
+   "real_reference/n100/Broken soybeans/real_00034.png",
+   0.5182612538337708
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00057.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.389992356300354
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00058.png",
+   "real_reference/n100/Broken soybeans/real_00107.png",
+   0.45753541588783264
+  ],
+  [
+   "synthetic/n100/dcgan/Broken soybeans/dcgan_00059.png",
+   "real_reference/n100/Broken soybeans/real_00098.png",
+   0.5231904983520508
+  ]
+ ],
+ "fastgan": [
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00000.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.566741406917572
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00001.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.570099413394928
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00002.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5675554275512695
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00003.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5677903294563293
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00004.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5694872140884399
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00005.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5717942714691162
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00006.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5664219856262207
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00007.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5692193508148193
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00008.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5679207444190979
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00009.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5697596669197083
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00010.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.569270670413971
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00011.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5684418082237244
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00012.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5716867446899414
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00013.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5717572569847107
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00014.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5678651332855225
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00015.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5681792497634888
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00016.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5627873539924622
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00017.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5727846026420593
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00018.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5700260996818542
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00019.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5688086152076721
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00020.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5707626938819885
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00021.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5704833269119263
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00022.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.570010781288147
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00023.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5680564641952515
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00024.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5710522532463074
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00025.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5697062015533447
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00026.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5731675624847412
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00027.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5687620639801025
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00028.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5708537697792053
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00029.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5677238702774048
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00030.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5732072591781616
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00031.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5704646706581116
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00032.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.568098783493042
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00033.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5687944889068604
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00034.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5705036520957947
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00035.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5705651640892029
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00036.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5714460611343384
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00037.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.568626344203949
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00038.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5695437788963318
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00039.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5694344639778137
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00040.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5712923407554626
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00041.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5700609683990479
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00042.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5720862150192261
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00043.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5696632862091064
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00044.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5687959790229797
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00045.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5701592564582825
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00046.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5691901445388794
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00047.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5699664354324341
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00048.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5733350515365601
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00049.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5736733078956604
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00050.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5724055767059326
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00051.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5675793290138245
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00052.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5701290965080261
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00053.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5711870193481445
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00054.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5702283382415771
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00055.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5692324638366699
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00056.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5735123753547668
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00057.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.5691729187965393
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00058.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5678649544715881
+  ],
+  [
+   "synthetic/n100/fastgan/Broken soybeans/fastgan_00059.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5695710182189941
+  ]
+ ],
+ "ddpm_v1": [
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00000.png",
+   "real_reference/n100/Broken soybeans/real_00033.png",
+   0.4849725663661957
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00001.png",
+   "real_reference/n100/Broken soybeans/real_00098.png",
+   0.40977054834365845
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00002.png",
+   "real_reference/n100/Broken soybeans/real_00047.png",
+   0.37283751368522644
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00003.png",
+   "real_reference/n100/Broken soybeans/real_00033.png",
+   0.5124930739402771
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00004.png",
+   "real_reference/n100/Broken soybeans/real_00047.png",
+   0.4141656160354614
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00005.png",
+   "real_reference/n100/Broken soybeans/real_00085.png",
+   0.38648170232772827
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00006.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.4064232110977173
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00007.png",
+   "real_reference/n100/Broken soybeans/real_00022.png",
+   0.42060354351997375
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00008.png",
+   "real_reference/n100/Broken soybeans/real_00044.png",
+   0.415591299533844
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00009.png",
+   "real_reference/n100/Broken soybeans/real_00033.png",
+   0.5330121517181396
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00010.png",
+   "real_reference/n100/Broken soybeans/real_00116.png",
+   0.4310176968574524
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00011.png",
+   "real_reference/n100/Broken soybeans/real_00069.png",
+   0.4098784327507019
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00012.png",
+   "real_reference/n100/Broken soybeans/real_00107.png",
+   0.46998855471611023
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00013.png",
+   "real_reference/n100/Broken soybeans/real_00049.png",
+   0.5157934427261353
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00014.png",
+   "real_reference/n100/Broken soybeans/real_00062.png",
+   0.5617690682411194
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00015.png",
+   "real_reference/n100/Broken soybeans/real_00098.png",
+   0.45281004905700684
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00016.png",
+   "real_reference/n100/Broken soybeans/real_00135.png",
+   0.4493018090724945
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00017.png",
+   "real_reference/n100/Broken soybeans/real_00062.png",
+   0.5138117671012878
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00018.png",
+   "real_reference/n100/Broken soybeans/real_00102.png",
+   0.4129268527030945
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00019.png",
+   "real_reference/n100/Broken soybeans/real_00107.png",
+   0.5103247761726379
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00020.png",
+   "real_reference/n100/Broken soybeans/real_00034.png",
+   0.41726741194725037
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00021.png",
+   "real_reference/n100/Broken soybeans/real_00083.png",
+   0.4698368012905121
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00022.png",
+   "real_reference/n100/Broken soybeans/real_00033.png",
+   0.42880070209503174
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00023.png",
+   "real_reference/n100/Broken soybeans/real_00135.png",
+   0.37655502557754517
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00024.png",
+   "real_reference/n100/Broken soybeans/real_00069.png",
+   0.4363071322441101
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00025.png",
+   "real_reference/n100/Broken soybeans/real_00005.png",
+   0.5045851469039917
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00026.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.40000268816947937
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00027.png",
+   "real_reference/n100/Broken soybeans/real_00116.png",
+   0.4152418375015259
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00028.png",
+   "real_reference/n100/Broken soybeans/real_00035.png",
+   0.42890825867652893
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00029.png",
+   "real_reference/n100/Broken soybeans/real_00085.png",
+   0.3449583351612091
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00030.png",
+   "real_reference/n100/Broken soybeans/real_00083.png",
+   0.4300587773323059
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00031.png",
+   "real_reference/n100/Broken soybeans/real_00043.png",
+   0.6020047664642334
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00032.png",
+   "real_reference/n100/Broken soybeans/real_00100.png",
+   0.42960819602012634
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00033.png",
+   "real_reference/n100/Broken soybeans/real_00159.png",
+   0.4425453543663025
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00034.png",
+   "real_reference/n100/Broken soybeans/real_00075.png",
+   0.521719217300415
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00035.png",
+   "real_reference/n100/Broken soybeans/real_00038.png",
+   0.48938560485839844
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00036.png",
+   "real_reference/n100/Broken soybeans/real_00107.png",
+   0.45150795578956604
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00037.png",
+   "real_reference/n100/Broken soybeans/real_00084.png",
+   0.4967891275882721
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00038.png",
+   "real_reference/n100/Broken soybeans/real_00116.png",
+   0.41903266310691833
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00039.png",
+   "real_reference/n100/Broken soybeans/real_00069.png",
+   0.3845820128917694
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00040.png",
+   "real_reference/n100/Broken soybeans/real_00083.png",
+   0.3955528736114502
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00041.png",
+   "real_reference/n100/Broken soybeans/real_00101.png",
+   0.5602025389671326
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00042.png",
+   "real_reference/n100/Broken soybeans/real_00033.png",
+   0.4665828347206116
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00043.png",
+   "real_reference/n100/Broken soybeans/real_00194.png",
+   0.40841835737228394
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00044.png",
+   "real_reference/n100/Broken soybeans/real_00044.png",
+   0.3827627897262573
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00045.png",
+   "real_reference/n100/Broken soybeans/real_00036.png",
+   0.5369590520858765
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00046.png",
+   "real_reference/n100/Broken soybeans/real_00102.png",
+   0.38581323623657227
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00047.png",
+   "real_reference/n100/Broken soybeans/real_00101.png",
+   0.5046899318695068
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00048.png",
+   "real_reference/n100/Broken soybeans/real_00047.png",
+   0.4200814962387085
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00049.png",
+   "real_reference/n100/Broken soybeans/real_00061.png",
+   0.5016576051712036
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00050.png",
+   "real_reference/n100/Broken soybeans/real_00177.png",
+   0.5613914728164673
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00051.png",
+   "real_reference/n100/Broken soybeans/real_00056.png",
+   0.506314754486084
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00052.png",
+   "real_reference/n100/Broken soybeans/real_00098.png",
+   0.379009872674942
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00053.png",
+   "real_reference/n100/Broken soybeans/real_00100.png",
+   0.46532511711120605
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00054.png",
+   "real_reference/n100/Broken soybeans/real_00044.png",
+   0.3720845878124237
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00055.png",
+   "real_reference/n100/Broken soybeans/real_00107.png",
+   0.4634370505809784
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00056.png",
+   "real_reference/n100/Broken soybeans/real_00077.png",
+   0.39719849824905396
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00057.png",
+   "real_reference/n100/Broken soybeans/real_00047.png",
+   0.4254584312438965
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00058.png",
+   "real_reference/n100/Broken soybeans/real_00035.png",
+   0.4878920316696167
+  ],
+  [
+   "synthetic/n100/ddpm_v1/Broken soybeans/v1_00059.png",
+   "real_reference/n100/Broken soybeans/real_00047.png",
+   0.5754323601722717
+  ]
+ ],
+ "ddpm_ft": [
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00000.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5679404735565186
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00001.png",
+   "real_reference/n100/Broken soybeans/real_00102.png",
+   0.3343742787837982
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00002.png",
+   "real_reference/n100/Broken soybeans/real_00164.png",
+   0.4215852618217468
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00003.png",
+   "real_reference/n100/Broken soybeans/real_00027.png",
+   0.413585364818573
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00004.png",
+   "real_reference/n100/Broken soybeans/real_00036.png",
+   0.5982681512832642
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00005.png",
+   "real_reference/n100/Broken soybeans/real_00061.png",
+   0.4862349033355713
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00006.png",
+   "real_reference/n100/Broken soybeans/real_00101.png",
+   0.5006787776947021
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00007.png",
+   "real_reference/n100/Broken soybeans/real_00084.png",
+   0.5897042751312256
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00008.png",
+   "real_reference/n100/Broken soybeans/real_00047.png",
+   0.4596407115459442
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00009.png",
+   "real_reference/n100/Broken soybeans/real_00031.png",
+   0.5858047008514404
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00010.png",
+   "real_reference/n100/Broken soybeans/real_00034.png",
+   0.3998706042766571
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00011.png",
+   "real_reference/n100/Broken soybeans/real_00135.png",
+   0.3718855082988739
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00012.png",
+   "real_reference/n100/Broken soybeans/real_00033.png",
+   0.5098295211791992
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00013.png",
+   "real_reference/n100/Broken soybeans/real_00042.png",
+   0.524816632270813
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00014.png",
+   "real_reference/n100/Broken soybeans/real_00033.png",
+   0.4311726689338684
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00015.png",
+   "real_reference/n100/Broken soybeans/real_00085.png",
+   0.33905190229415894
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00016.png",
+   "real_reference/n100/Broken soybeans/real_00050.png",
+   0.6030351519584656
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00017.png",
+   "real_reference/n100/Broken soybeans/real_00035.png",
+   0.47329872846603394
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00018.png",
+   "real_reference/n100/Broken soybeans/real_00085.png",
+   0.3518596291542053
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00019.png",
+   "real_reference/n100/Broken soybeans/real_00135.png",
+   0.36068999767303467
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00020.png",
+   "real_reference/n100/Broken soybeans/real_00083.png",
+   0.40252628922462463
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00021.png",
+   "real_reference/n100/Broken soybeans/real_00085.png",
+   0.3741636276245117
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00022.png",
+   "real_reference/n100/Broken soybeans/real_00047.png",
+   0.46173039078712463
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00023.png",
+   "real_reference/n100/Broken soybeans/real_00098.png",
+   0.4250141382217407
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00024.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.396803617477417
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00025.png",
+   "real_reference/n100/Broken soybeans/real_00098.png",
+   0.39772093296051025
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00026.png",
+   "real_reference/n100/Broken soybeans/real_00100.png",
+   0.44396328926086426
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00027.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.6449259519577026
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00028.png",
+   "real_reference/n100/Broken soybeans/real_00078.png",
+   0.40538591146469116
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00029.png",
+   "real_reference/n100/Broken soybeans/real_00033.png",
+   0.6018326878547668
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00030.png",
+   "real_reference/n100/Broken soybeans/real_00168.png",
+   0.6560336351394653
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00031.png",
+   "real_reference/n100/Broken soybeans/real_00083.png",
+   0.3833453059196472
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00032.png",
+   "real_reference/n100/Broken soybeans/real_00033.png",
+   0.5204929113388062
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00033.png",
+   "real_reference/n100/Broken soybeans/real_00102.png",
+   0.455847829580307
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00034.png",
+   "real_reference/n100/Broken soybeans/real_00102.png",
+   0.3514631390571594
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00035.png",
+   "real_reference/n100/Broken soybeans/real_00116.png",
+   0.36273202300071716
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00036.png",
+   "real_reference/n100/Broken soybeans/real_00083.png",
+   0.40564531087875366
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00037.png",
+   "real_reference/n100/Broken soybeans/real_00160.png",
+   0.4293828010559082
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00038.png",
+   "real_reference/n100/Broken soybeans/real_00022.png",
+   0.5517755746841431
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00039.png",
+   "real_reference/n100/Broken soybeans/real_00101.png",
+   0.5229334235191345
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00040.png",
+   "real_reference/n100/Broken soybeans/real_00049.png",
+   0.45602095127105713
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00041.png",
+   "real_reference/n100/Broken soybeans/real_00033.png",
+   0.4276717007160187
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00042.png",
+   "real_reference/n100/Broken soybeans/real_00033.png",
+   0.5702863335609436
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00043.png",
+   "real_reference/n100/Broken soybeans/real_00083.png",
+   0.4614448547363281
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00044.png",
+   "real_reference/n100/Broken soybeans/real_00036.png",
+   0.4357486665248871
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00045.png",
+   "real_reference/n100/Broken soybeans/real_00033.png",
+   0.4989474415779114
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00046.png",
+   "real_reference/n100/Broken soybeans/real_00069.png",
+   0.564466118812561
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00047.png",
+   "real_reference/n100/Broken soybeans/real_00048.png",
+   0.3846335709095001
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00048.png",
+   "real_reference/n100/Broken soybeans/real_00033.png",
+   0.49876123666763306
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00049.png",
+   "real_reference/n100/Broken soybeans/real_00027.png",
+   0.4157596528530121
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00050.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5729371905326843
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00051.png",
+   "real_reference/n100/Broken soybeans/real_00061.png",
+   0.5259756445884705
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00052.png",
+   "real_reference/n100/Broken soybeans/real_00024.png",
+   0.47558027505874634
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00053.png",
+   "real_reference/n100/Broken soybeans/real_00100.png",
+   0.44887232780456543
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00054.png",
+   "real_reference/n100/Broken soybeans/real_00071.png",
+   0.5690316557884216
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00055.png",
+   "real_reference/n100/Broken soybeans/real_00027.png",
+   0.42036592960357666
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00056.png",
+   "real_reference/n100/Broken soybeans/real_00033.png",
+   0.4735502600669861
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00057.png",
+   "real_reference/n100/Broken soybeans/real_00136.png",
+   0.5775072574615479
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00058.png",
+   "real_reference/n100/Broken soybeans/real_00116.png",
+   0.5519871115684509
+  ],
+  [
+   "synthetic/n100/ddpm_ft/Broken soybeans/ft_00059.png",
+   "real_reference/n100/Broken soybeans/real_00097.png",
+   0.5038988590240479
+  ]
+ ],
+ "sd_lora_sdedit": [
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00000.png",
+   "real_reference/n100/Broken soybeans/real_00112.png",
+   0.4924846291542053
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00001.png",
+   "real_reference/n100/Broken soybeans/real_00069.png",
+   0.32234328985214233
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00002.png",
+   "real_reference/n100/Broken soybeans/real_00027.png",
+   0.4134942293167114
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00003.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.34052932262420654
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00004.png",
+   "real_reference/n100/Broken soybeans/real_00159.png",
+   0.5147739052772522
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00005.png",
+   "real_reference/n100/Broken soybeans/real_00169.png",
+   0.35158130526542664
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00006.png",
+   "real_reference/n100/Broken soybeans/real_00074.png",
+   0.37722060084342957
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00007.png",
+   "real_reference/n100/Broken soybeans/real_00078.png",
+   0.40656551718711853
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00008.png",
+   "real_reference/n100/Broken soybeans/real_00055.png",
+   0.4069240093231201
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00009.png",
+   "real_reference/n100/Broken soybeans/real_00109.png",
+   0.4296598732471466
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00010.png",
+   "real_reference/n100/Broken soybeans/real_00180.png",
+   0.4830317497253418
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00011.png",
+   "real_reference/n100/Broken soybeans/real_00137.png",
+   0.31273403763771057
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00012.png",
+   "real_reference/n100/Broken soybeans/real_00109.png",
+   0.42051419615745544
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00013.png",
+   "real_reference/n100/Broken soybeans/real_00179.png",
+   0.44676271080970764
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00014.png",
+   "real_reference/n100/Broken soybeans/real_00159.png",
+   0.2698676288127899
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00015.png",
+   "real_reference/n100/Broken soybeans/real_00036.png",
+   0.46823254227638245
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00016.png",
+   "real_reference/n100/Broken soybeans/real_00197.png",
+   0.3274987041950226
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00017.png",
+   "real_reference/n100/Broken soybeans/real_00160.png",
+   0.42203062772750854
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00018.png",
+   "real_reference/n100/Broken soybeans/real_00180.png",
+   0.44593408703804016
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00019.png",
+   "real_reference/n100/Broken soybeans/real_00078.png",
+   0.4552357792854309
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00020.png",
+   "real_reference/n100/Broken soybeans/real_00159.png",
+   0.43986350297927856
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00021.png",
+   "real_reference/n100/Broken soybeans/real_00160.png",
+   0.4091937243938446
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00022.png",
+   "real_reference/n100/Broken soybeans/real_00043.png",
+   0.34071269631385803
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00023.png",
+   "real_reference/n100/Broken soybeans/real_00085.png",
+   0.38330376148223877
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00024.png",
+   "real_reference/n100/Broken soybeans/real_00023.png",
+   0.4765584170818329
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00025.png",
+   "real_reference/n100/Broken soybeans/real_00098.png",
+   0.45472633838653564
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00026.png",
+   "real_reference/n100/Broken soybeans/real_00043.png",
+   0.3824288249015808
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00027.png",
+   "real_reference/n100/Broken soybeans/real_00006.png",
+   0.44220641255378723
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00028.png",
+   "real_reference/n100/Broken soybeans/real_00169.png",
+   0.34775567054748535
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00029.png",
+   "real_reference/n100/Broken soybeans/real_00021.png",
+   0.4328768849372864
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00030.png",
+   "real_reference/n100/Broken soybeans/real_00190.png",
+   0.4969204068183899
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00031.png",
+   "real_reference/n100/Broken soybeans/real_00109.png",
+   0.3779141902923584
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00032.png",
+   "real_reference/n100/Broken soybeans/real_00154.png",
+   0.30773216485977173
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00033.png",
+   "real_reference/n100/Broken soybeans/real_00065.png",
+   0.4539072513580322
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00034.png",
+   "real_reference/n100/Broken soybeans/real_00128.png",
+   0.5684056282043457
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00035.png",
+   "real_reference/n100/Broken soybeans/real_00056.png",
+   0.3989938497543335
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00036.png",
+   "real_reference/n100/Broken soybeans/real_00110.png",
+   0.4552586078643799
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00037.png",
+   "real_reference/n100/Broken soybeans/real_00027.png",
+   0.4486493468284607
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00038.png",
+   "real_reference/n100/Broken soybeans/real_00159.png",
+   0.5138664841651917
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00039.png",
+   "real_reference/n100/Broken soybeans/real_00121.png",
+   0.4007558822631836
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00040.png",
+   "real_reference/n100/Broken soybeans/real_00137.png",
+   0.26389414072036743
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00041.png",
+   "real_reference/n100/Broken soybeans/real_00135.png",
+   0.44665831327438354
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00042.png",
+   "real_reference/n100/Broken soybeans/real_00168.png",
+   0.26983532309532166
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00043.png",
+   "real_reference/n100/Broken soybeans/real_00087.png",
+   0.48353707790374756
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00044.png",
+   "real_reference/n100/Broken soybeans/real_00121.png",
+   0.41933393478393555
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00045.png",
+   "real_reference/n100/Broken soybeans/real_00159.png",
+   0.47747236490249634
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00046.png",
+   "real_reference/n100/Broken soybeans/real_00197.png",
+   0.32518884539604187
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00047.png",
+   "real_reference/n100/Broken soybeans/real_00069.png",
+   0.40787696838378906
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00048.png",
+   "real_reference/n100/Broken soybeans/real_00042.png",
+   0.48113736510276794
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00049.png",
+   "real_reference/n100/Broken soybeans/real_00024.png",
+   0.48556387424468994
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00050.png",
+   "real_reference/n100/Broken soybeans/real_00074.png",
+   0.3329710364341736
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00051.png",
+   "real_reference/n100/Broken soybeans/real_00055.png",
+   0.417614221572876
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00052.png",
+   "real_reference/n100/Broken soybeans/real_00132.png",
+   0.4731769561767578
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00053.png",
+   "real_reference/n100/Broken soybeans/real_00110.png",
+   0.45725783705711365
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00054.png",
+   "real_reference/n100/Broken soybeans/real_00179.png",
+   0.45334339141845703
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00055.png",
+   "real_reference/n100/Broken soybeans/real_00125.png",
+   0.474016010761261
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00056.png",
+   "real_reference/n100/Broken soybeans/real_00194.png",
+   0.4968113601207733
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00057.png",
+   "real_reference/n100/Broken soybeans/real_00138.png",
+   0.3012549579143524
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00058.png",
+   "real_reference/n100/Broken soybeans/real_00159.png",
+   0.5457216501235962
+  ],
+  [
+   "synthetic/n100/sd_lora_sdedit/Broken soybeans/sd_lora_sdedit_00059.png",
+   "real_reference/n100/Broken soybeans/real_00169.png",
+   0.323788583278656
+  ]
+ ],
+ "sd_turbo_lora": [
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00000.png",
+   "real_reference/n100/Broken soybeans/real_00102.png",
+   0.5558627247810364
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00001.png",
+   "real_reference/n100/Broken soybeans/real_00069.png",
+   0.6408029198646545
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00002.png",
+   "real_reference/n100/Broken soybeans/real_00034.png",
+   0.6275161504745483
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00003.png",
+   "real_reference/n100/Broken soybeans/real_00069.png",
+   0.6023555397987366
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00004.png",
+   "real_reference/n100/Broken soybeans/real_00048.png",
+   0.6074526906013489
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00005.png",
+   "real_reference/n100/Broken soybeans/real_00124.png",
+   0.6165612936019897
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00006.png",
+   "real_reference/n100/Broken soybeans/real_00034.png",
+   0.5464797019958496
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00007.png",
+   "real_reference/n100/Broken soybeans/real_00102.png",
+   0.533849835395813
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00008.png",
+   "real_reference/n100/Broken soybeans/real_00069.png",
+   0.5658336877822876
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00009.png",
+   "real_reference/n100/Broken soybeans/real_00124.png",
+   0.6282383799552917
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00010.png",
+   "real_reference/n100/Broken soybeans/real_00072.png",
+   0.5525164008140564
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00011.png",
+   "real_reference/n100/Broken soybeans/real_00102.png",
+   0.5424894690513611
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00012.png",
+   "real_reference/n100/Broken soybeans/real_00069.png",
+   0.6157956719398499
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00013.png",
+   "real_reference/n100/Broken soybeans/real_00078.png",
+   0.5304149389266968
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00014.png",
+   "real_reference/n100/Broken soybeans/real_00078.png",
+   0.6128471493721008
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00015.png",
+   "real_reference/n100/Broken soybeans/real_00035.png",
+   0.5857132077217102
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00016.png",
+   "real_reference/n100/Broken soybeans/real_00069.png",
+   0.5981581211090088
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00017.png",
+   "real_reference/n100/Broken soybeans/real_00069.png",
+   0.5764386653900146
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00018.png",
+   "real_reference/n100/Broken soybeans/real_00069.png",
+   0.5649386048316956
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00019.png",
+   "real_reference/n100/Broken soybeans/real_00069.png",
+   0.5663072466850281
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00020.png",
+   "real_reference/n100/Broken soybeans/real_00141.png",
+   0.5827418565750122
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00021.png",
+   "real_reference/n100/Broken soybeans/real_00055.png",
+   0.6096349358558655
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00022.png",
+   "real_reference/n100/Broken soybeans/real_00102.png",
+   0.5244243144989014
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00023.png",
+   "real_reference/n100/Broken soybeans/real_00069.png",
+   0.625568151473999
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00024.png",
+   "real_reference/n100/Broken soybeans/real_00069.png",
+   0.5599113702774048
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00025.png",
+   "real_reference/n100/Broken soybeans/real_00135.png",
+   0.5433592200279236
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00026.png",
+   "real_reference/n100/Broken soybeans/real_00085.png",
+   0.5719836950302124
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00027.png",
+   "real_reference/n100/Broken soybeans/real_00159.png",
+   0.5595406293869019
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00028.png",
+   "real_reference/n100/Broken soybeans/real_00069.png",
+   0.5554075837135315
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00029.png",
+   "real_reference/n100/Broken soybeans/real_00124.png",
+   0.6773122549057007
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00030.png",
+   "real_reference/n100/Broken soybeans/real_00048.png",
+   0.5687898993492126
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00031.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.6251034140586853
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00032.png",
+   "real_reference/n100/Broken soybeans/real_00102.png",
+   0.5927473902702332
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00033.png",
+   "real_reference/n100/Broken soybeans/real_00069.png",
+   0.5764567852020264
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00034.png",
+   "real_reference/n100/Broken soybeans/real_00069.png",
+   0.625260055065155
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00035.png",
+   "real_reference/n100/Broken soybeans/real_00135.png",
+   0.5807867050170898
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00036.png",
+   "real_reference/n100/Broken soybeans/real_00055.png",
+   0.5940209627151489
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00037.png",
+   "real_reference/n100/Broken soybeans/real_00048.png",
+   0.5338871479034424
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00038.png",
+   "real_reference/n100/Broken soybeans/real_00102.png",
+   0.5483488440513611
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00039.png",
+   "real_reference/n100/Broken soybeans/real_00102.png",
+   0.6024776697158813
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00040.png",
+   "real_reference/n100/Broken soybeans/real_00069.png",
+   0.6100131869316101
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00041.png",
+   "real_reference/n100/Broken soybeans/real_00069.png",
+   0.6152774095535278
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00042.png",
+   "real_reference/n100/Broken soybeans/real_00183.png",
+   0.6197506189346313
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00043.png",
+   "real_reference/n100/Broken soybeans/real_00069.png",
+   0.554297685623169
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00044.png",
+   "real_reference/n100/Broken soybeans/real_00135.png",
+   0.5114896297454834
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00045.png",
+   "real_reference/n100/Broken soybeans/real_00034.png",
+   0.5428305268287659
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00046.png",
+   "real_reference/n100/Broken soybeans/real_00102.png",
+   0.5679100751876831
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00047.png",
+   "real_reference/n100/Broken soybeans/real_00069.png",
+   0.604084849357605
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00048.png",
+   "real_reference/n100/Broken soybeans/real_00034.png",
+   0.5892211198806763
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00049.png",
+   "real_reference/n100/Broken soybeans/real_00006.png",
+   0.5342428684234619
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00050.png",
+   "real_reference/n100/Broken soybeans/real_00135.png",
+   0.5944513082504272
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00051.png",
+   "real_reference/n100/Broken soybeans/real_00069.png",
+   0.5312104821205139
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00052.png",
+   "real_reference/n100/Broken soybeans/real_00135.png",
+   0.6279133558273315
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00053.png",
+   "real_reference/n100/Broken soybeans/real_00069.png",
+   0.49709659814834595
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00054.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.6037302017211914
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00055.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.5955621600151062
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00056.png",
+   "real_reference/n100/Broken soybeans/real_00164.png",
+   0.6274990439414978
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00057.png",
+   "real_reference/n100/Broken soybeans/real_00008.png",
+   0.5114700794219971
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00058.png",
+   "real_reference/n100/Broken soybeans/real_00069.png",
+   0.5153030753135681
+  ],
+  [
+   "synthetic/n100/sd_turbo_lora/Broken soybeans/sd_turbo_lora_00059.png",
+   "real_reference/n100/Broken soybeans/real_00048.png",
+   0.5331004858016968
+  ]
+ ]
+}

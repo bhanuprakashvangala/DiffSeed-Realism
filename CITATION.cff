@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+title: >-
+  Visual Realism Does Not Predict Seed-Quality Utility in AI-Generated
+  Synthetic Seeds
+message: >-
+  If you use this code or its results, please cite the paper using the
+  metadata below.
+type: software
+authors:
+  - given-names: Bhanu Prakash
+    family-names: Vangala
+    affiliation: University of Missouri
+  - given-names: Navya
+    family-names: Vangala
+    affiliation: Amar Biotech Private Limited
+abstract: >-
+  Eight generator configurations (pixel and latent diffusion, GANs) trained on
+  a five-class soybean seed-quality corpus, with the same fixed synthetic
+  images evaluated for distributional realism (FID and related metrics),
+  near-copying, real-versus-synthetic separability, utility on held-out real
+  seeds, finite-sample FID, sampler stability and computational cost.
+keywords:
+  - synthetic seeds
+  - generative artificial intelligence
+  - soybean seed quality
+  - synthetic data validation
+  - FID
+  - seed imaging
+license: MIT
+preferred-citation:
+  type: article
+  title: >-
+    Visual Realism Does Not Predict Seed-Quality Utility in AI-Generated
+    Synthetic Seeds
+  authors:
+    - given-names: Bhanu Prakash
+      family-names: Vangala
+    - given-names: Navya
+      family-names: Vangala
+  journal: Artificial Intelligence in Agriculture
+  year: 2026
+  notes: Under review

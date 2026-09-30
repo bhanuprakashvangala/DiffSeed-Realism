@@ -1,0 +1,5906 @@
+[
+  {
+    "name": "gen::sd_lora::n25",
+    "seconds": 3408.784277613,
+    "peak_vram_gb": 13.088270848,
+    "energy_wh": 223.08782472222217,
+    "trainable_params_m": 3.188736,
+    "total_params_m": 862.7097,
+    "steps": 3000,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 25,
+      "stage": "generator"
+    },
+    "gpu_minutes": 56.81307129355
+  },
+  {
+    "name": "gen::ddpm_fixed::n25",
+    "seconds": 23900.349760355,
+    "peak_vram_gb": 16.225329152,
+    "energy_wh": 1739.354702777778,
+    "trainable_params_m": 47.976483,
+    "total_params_m": 47.976483,
+    "steps": 8520,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 25,
+      "stage": "generator"
+    },
+    "gpu_minutes": 398.3391626725833
+  },
+  {
+    "name": "gen::sd_lora::n50",
+    "seconds": 3389.595967314999,
+    "peak_vram_gb": 9.78602496,
+    "energy_wh": 229.377543611111,
+    "trainable_params_m": 3.188736,
+    "total_params_m": 862.7097,
+    "steps": 3000,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 50,
+      "stage": "generator"
+    },
+    "gpu_minutes": 56.493266121916655
+  },
+  {
+    "name": "gen::ddpm_fixed::n50",
+    "seconds": 23835.972212801003,
+    "peak_vram_gb": 16.049567744,
+    "energy_wh": 1814.4731105555552,
+    "trainable_params_m": 47.976483,
+    "total_params_m": 47.976483,
+    "steps": 8514,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 50,
+      "stage": "generator"
+    },
+    "gpu_minutes": 397.2662035466834
+  },
+  {
+    "name": "gen::sd_lora::n100",
+    "seconds": 3449.446774591008,
+    "peak_vram_gb": 9.78602496,
+    "energy_wh": 235.19395583333343,
+    "trainable_params_m": 3.188736,
+    "total_params_m": 862.7097,
+    "steps": 3000,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 100,
+      "stage": "generator"
+    },
+    "gpu_minutes": 57.4907795765168
+  },
+  {
+    "name": "gen::ddpm_fixed::n100",
+    "seconds": 23819.72780508401,
+    "peak_vram_gb": 16.049567744,
+    "energy_wh": 1767.5354336111113,
+    "trainable_params_m": 47.976483,
+    "total_params_m": 47.976483,
+    "steps": 8502,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 100,
+      "stage": "generator"
+    },
+    "gpu_minutes": 396.99546341806683
+  },
+  {
+    "name": "gen::dcgan::n100",
+    "seconds": 80.8944367810036,
+    "peak_vram_gb": 3.155323904,
+    "energy_wh": 4.715233333333292,
+    "trainable_params_m": 24.03442,
+    "total_params_m": 24.03442,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dcgan",
+      "scarcity": 100,
+      "stage": "generator"
+    },
+    "gpu_minutes": 1.3482406130167268
+  },
+  {
+    "name": "gen::fastgan::n100",
+    "seconds": 219.09594262800238,
+    "peak_vram_gb": 12.216249856,
+    "energy_wh": 13.806191111111806,
+    "trainable_params_m": 36.775743999999996,
+    "total_params_m": 36.775743999999996,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "fastgan",
+      "scarcity": 100,
+      "stage": "generator"
+    },
+    "gpu_minutes": 3.6515990438000396
+  },
+  {
+    "name": "gen::ddpm_v1::n100",
+    "seconds": 22950.019860008993,
+    "peak_vram_gb": 21.999460352,
+    "energy_wh": 1611.9754538888888,
+    "trainable_params_m": 76.778115,
+    "total_params_m": 76.778115,
+    "steps": 8502,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_v1",
+      "scarcity": 100,
+      "stage": "generator"
+    },
+    "gpu_minutes": 382.5003310001499
+  },
+  {
+    "name": "gen::ddpm_ft::n100",
+    "seconds": 18096.601679683983,
+    "peak_vram_gb": 18.292496384,
+    "energy_wh": 1308.7828586111114,
+    "trainable_params_m": 113.676291,
+    "total_params_m": 113.676291,
+    "steps": 2145,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_ft",
+      "scarcity": 100,
+      "stage": "generator"
+    },
+    "gpu_minutes": 301.61002799473306
+  },
+  {
+    "name": "gen::sd_lora_sdedit::n100",
+    "seconds": 1513.3039753960038,
+    "peak_vram_gb": 4.306774016,
+    "energy_wh": 102.872435277777,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora_sdedit",
+      "scarcity": 100,
+      "stage": "generator"
+    },
+    "gpu_minutes": 25.22173292326673
+  },
+  {
+    "name": "gen::sd_turbo_lora::n100",
+    "seconds": 1379.8717093220039,
+    "peak_vram_gb": 9.654291456,
+    "energy_wh": 79.29165611111041,
+    "trainable_params_m": 3.319808,
+    "total_params_m": 869.230532,
+    "steps": 1500,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_turbo_lora",
+      "scarcity": 100,
+      "stage": "generator"
+    },
+    "gpu_minutes": 22.997861822033396
+  },
+  {
+    "name": "gen::sd_lora::n200",
+    "seconds": 3580.3571217950084,
+    "peak_vram_gb": 9.78602496,
+    "energy_wh": 243.9214705555555,
+    "trainable_params_m": 3.188736,
+    "total_params_m": 862.7097,
+    "steps": 3000,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 200,
+      "stage": "generator"
+    },
+    "gpu_minutes": 59.67261869658348
+  },
+  {
+    "name": "gen::ddpm_fixed::n200",
+    "seconds": 23825.540880827,
+    "peak_vram_gb": 16.049567744,
+    "energy_wh": 1737.6194172222229,
+    "trainable_params_m": 47.976483,
+    "total_params_m": 47.976483,
+    "steps": 8528,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 200,
+      "stage": "generator"
+    },
+    "gpu_minutes": 397.09234801378335
+  },
+  {
+    "name": "clf::trad::resnet50::s0::n25",
+    "seconds": 69.09857529200963,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 3.411517222221527,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "trad",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.1516429215334938
+  },
+  {
+    "name": "clf::trad::resnet50::s1::n25",
+    "seconds": 69.32134292900446,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 3.386600833334443,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "trad",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.1553557154834075
+  },
+  {
+    "name": "clf::trad::resnet50::s2::n25",
+    "seconds": 69.12427445600042,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 3.3808383333331182,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "trad",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.1520712409333405
+  },
+  {
+    "name": "clf::sd_lora::resnet50::s0::n25",
+    "seconds": 119.87599494200549,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.8270963888884415,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.997933249033425
+  },
+  {
+    "name": "clf::sd_lora::resnet50::s1::n25",
+    "seconds": 120.02084122601082,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.829946666666203,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.000347353766847
+  },
+  {
+    "name": "clf::sd_lora::resnet50::s2::n25",
+    "seconds": 120.32976993097691,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.833427500000431,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.005496165516282
+  },
+  {
+    "name": "clf::oracle::resnet50::s0::n25",
+    "seconds": 225.21363332498004,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 12.01455833333441,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 3750,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oracle",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.753560555416334
+  },
+  {
+    "name": "clf::oracle::resnet50::s1::n25",
+    "seconds": 210.02208378497744,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 11.759731111110499,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 3750,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oracle",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.5003680630829574
+  },
+  {
+    "name": "clf::oracle::resnet50::s2::n25",
+    "seconds": 209.9437695129891,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 11.758539722222421,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 3750,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oracle",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.499062825216485
+  },
+  {
+    "name": "clf::trad::resnet50::s0::n50",
+    "seconds": 73.70707563200267,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 3.655340277778192,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "trad",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.228451260533378
+  },
+  {
+    "name": "clf::trad::resnet50::s1::n50",
+    "seconds": 73.98667411299539,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 3.659869166666435,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "trad",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.2331112352165898
+  },
+  {
+    "name": "clf::trad::resnet50::s2::n50",
+    "seconds": 74.1391824419843,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 3.6620422222216926,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "trad",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.2356530406997384
+  },
+  {
+    "name": "clf::sd_lora::resnet50::s0::n50",
+    "seconds": 123.92185408700607,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.086339166667313,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.0653642347834347
+  },
+  {
+    "name": "clf::sd_lora::resnet50::s1::n50",
+    "seconds": 122.12348949100124,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.048823611111277,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.035391491516687
+  },
+  {
+    "name": "clf::sd_lora::resnet50::s2::n50",
+    "seconds": 123.02876182398177,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.064610000000232,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.0504793637330296
+  },
+  {
+    "name": "clf::oracle::resnet50::s0::n50",
+    "seconds": 209.75990648701554,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 11.755533611110101,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 3750,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oracle",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.495998441450259
+  },
+  {
+    "name": "clf::oracle::resnet50::s1::n50",
+    "seconds": 210.2172800170083,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 11.758475555556101,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 3750,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oracle",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.503621333616805
+  },
+  {
+    "name": "clf::oracle::resnet50::s2::n50",
+    "seconds": 210.11125897499733,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 11.75295833333292,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 3750,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oracle",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.5018543162499554
+  },
+  {
+    "name": "clf::none::resnet50::s1::n100",
+    "seconds": 79.63701704100822,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 4.147531111112071,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.327283617350137
+  },
+  {
+    "name": "clf::none::resnet50::s2::n100",
+    "seconds": 79.68296950199874,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 4.151705833334062,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.328049491699979
+  },
+  {
+    "name": "clf::trad::resnet50::s0::n100",
+    "seconds": 83.42134192900266,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 4.213153333332803,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "trad",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.3903556988167112
+  },
+  {
+    "name": "clf::trad::resnet50::s1::n100",
+    "seconds": 83.59807205200195,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 4.2126233333328535,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "trad",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.3933012008666992
+  },
+  {
+    "name": "clf::trad::resnet50::s2::n100",
+    "seconds": 83.60602568500326,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 4.214274166667213,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "trad",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.393433761416721
+  },
+  {
+    "name": "clf::sd_lora::resnet50::s0::n100",
+    "seconds": 128.66458147097728,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.552275277777678,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.144409691182955
+  },
+  {
+    "name": "clf::sd_lora::resnet50::s1::n100",
+    "seconds": 128.60554953699466,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.558453055556035,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.1434258256165775
+  },
+  {
+    "name": "clf::sd_lora::resnet50::s2::n100",
+    "seconds": 128.17133142601233,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.551387777777595,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.1361888571002057
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s0::n100",
+    "seconds": 117.90849461400649,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.3960205555541645,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.9651415769001082
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s1::n100",
+    "seconds": 117.70756665599765,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.397000555555439,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.9617927775999608
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s2::n100",
+    "seconds": 117.72393611600273,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.402701111113032,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.9620656019333789
+  },
+  {
+    "name": "clf::dcgan::resnet50::s0::n100",
+    "seconds": 117.7782192559971,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.401020555554164,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dcgan",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.962970320933285
+  },
+  {
+    "name": "clf::dcgan::resnet50::s1::n100",
+    "seconds": 117.83916912900168,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.401358333333499,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dcgan",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.963986152150028
+  },
+  {
+    "name": "clf::dcgan::resnet50::s2::n100",
+    "seconds": 117.49136958498275,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.399450833333863,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dcgan",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.958189493083046
+  },
+  {
+    "name": "clf::fastgan::resnet50::s0::n100",
+    "seconds": 117.71362893999321,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.390602499999933,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "fastgan",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.9618938156665535
+  },
+  {
+    "name": "clf::fastgan::resnet50::s1::n100",
+    "seconds": 117.85444396099774,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.405001388887564,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "fastgan",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.9642407326832958
+  },
+  {
+    "name": "clf::fastgan::resnet50::s2::n100",
+    "seconds": 118.28993112497847,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.411278611111144,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "fastgan",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.9714988520829744
+  },
+  {
+    "name": "clf::ddpm_v1::resnet50::s0::n100",
+    "seconds": 118.15482904799865,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.410721944444296,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_v1",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.9692471507999774
+  },
+  {
+    "name": "clf::ddpm_v1::resnet50::s1::n100",
+    "seconds": 118.06160357699264,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.406754722220616,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_v1",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.9676933929498772
+  },
+  {
+    "name": "clf::ddpm_v1::resnet50::s2::n100",
+    "seconds": 117.66091636399506,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.40453472222305,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_v1",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.961015272733251
+  },
+  {
+    "name": "clf::ddpm_ft::resnet50::s0::n100",
+    "seconds": 117.64469945800374,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.4043086111110945,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_ft",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.960744990966729
+  },
+  {
+    "name": "clf::ddpm_ft::resnet50::s1::n100",
+    "seconds": 117.79696205302025,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.4061788888896505,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_ft",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.9632827008836709
+  },
+  {
+    "name": "clf::ddpm_ft::resnet50::s2::n100",
+    "seconds": 118.25311004699324,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.413235833332356,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_ft",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.9708851674498873
+  },
+  {
+    "name": "clf::sd_lora_sdedit::resnet50::s0::n100",
+    "seconds": 126.00423969101394,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.532797500000646,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora_sdedit",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.100070661516899
+  },
+  {
+    "name": "clf::sd_lora_sdedit::resnet50::s1::n100",
+    "seconds": 126.47775843998534,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.53633138888826,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora_sdedit",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.1079626406664222
+  },
+  {
+    "name": "clf::sd_lora_sdedit::resnet50::s2::n100",
+    "seconds": 126.12259292902309,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.5233311111128165,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora_sdedit",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.102043215483718
+  },
+  {
+    "name": "clf::sd_turbo_lora::resnet50::s0::n100",
+    "seconds": 120.9532386320061,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.4453366666659715,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_turbo_lora",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.015887310533435
+  },
+  {
+    "name": "clf::sd_turbo_lora::resnet50::s1::n100",
+    "seconds": 121.57375254697399,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.45736777777887,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_turbo_lora",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.026229209116233
+  },
+  {
+    "name": "clf::sd_turbo_lora::resnet50::s2::n100",
+    "seconds": 121.00907166901743,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.449415277776619,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_turbo_lora",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.0168178611502907
+  },
+  {
+    "name": "clf::oracle::resnet50::s0::n100",
+    "seconds": 209.90852170297876,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 11.751802500000016,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 3750,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oracle",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.4984753617163125
+  },
+  {
+    "name": "clf::oracle::resnet50::s1::n100",
+    "seconds": 210.02365006000036,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 11.73495944444504,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 3750,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oracle",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.5003941676666726
+  },
+  {
+    "name": "clf::oracle::resnet50::s2::n100",
+    "seconds": 209.77333843399538,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 11.712839166666898,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 3750,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oracle",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.496222307233256
+  },
+  {
+    "name": "clf::trad::resnet50::s0::n200",
+    "seconds": 103.82997281302232,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.3539561111107465,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "trad",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.7304995468837054
+  },
+  {
+    "name": "clf::trad::resnet50::s1::n200",
+    "seconds": 103.63385061000008,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.352846944445951,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "trad",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.7272308435000014
+  },
+  {
+    "name": "clf::trad::resnet50::s2::n200",
+    "seconds": 103.5985818359768,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.3523461111096875,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "trad",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.7266430305996134
+  },
+  {
+    "name": "clf::sd_lora::resnet50::s0::n200",
+    "seconds": 142.8514205380052,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.609314166667561,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.380857008966753
+  },
+  {
+    "name": "clf::sd_lora::resnet50::s1::n200",
+    "seconds": 142.84957604599185,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.610250555556267,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.3808262674331977
+  },
+  {
+    "name": "clf::sd_lora::resnet50::s2::n200",
+    "seconds": 142.67805563798174,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.612719722222537,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.3779675939663623
+  },
+  {
+    "name": "clf::oracle::resnet50::s0::n200",
+    "seconds": 209.83801902501727,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 11.756704166666086,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 3750,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oracle",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.497300317083621
+  },
+  {
+    "name": "clf::oracle::resnet50::s1::n200",
+    "seconds": 209.84377022800618,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 11.72540805555673,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 3750,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oracle",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.4973961704667698
+  },
+  {
+    "name": "clf::oracle::resnet50::s2::n200",
+    "seconds": 209.98864975300967,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 11.7524324999998,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 3750,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oracle",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.4998108292168277
+  },
+  {
+    "name": "clf::none::efficientnetv2_s::s0::n100",
+    "seconds": 234.49896103100036,
+    "peak_vram_gb": 2.796640768,
+    "energy_wh": 7.599839166665657,
+    "trainable_params_m": 20.183893,
+    "total_params_m": 20.183893,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.9083160171833393
+  },
+  {
+    "name": "clf::none::convnext_tiny::s0::n100",
+    "seconds": 164.44591788301477,
+    "peak_vram_gb": 2.418157056,
+    "energy_wh": 6.598138888888061,
+    "trainable_params_m": 27.823973,
+    "total_params_m": 27.823973,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.7407652980502464
+  },
+  {
+    "name": "clf::none::vit_b16::s0::n100",
+    "seconds": 160.35879866601317,
+    "peak_vram_gb": 3.454462464,
+    "energy_wh": 9.626989722222918,
+    "trainable_params_m": 85.802501,
+    "total_params_m": 85.802501,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.672646644433553
+  },
+  {
+    "name": "clf::none::swin_tiny::s0::n100",
+    "seconds": 122.19588985698647,
+    "peak_vram_gb": 2.689439744,
+    "energy_wh": 6.699807222220633,
+    "trainable_params_m": 27.523199,
+    "total_params_m": 27.523199,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.0365981642831077
+  },
+  {
+    "name": "clf::trad::efficientnetv2_s::s0::n100",
+    "seconds": 120.78761372898589,
+    "peak_vram_gb": 2.796640768,
+    "energy_wh": 5.453810277777827,
+    "trainable_params_m": 20.183893,
+    "total_params_m": 20.183893,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "trad",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.013126895483098
+  },
+  {
+    "name": "clf::trad::convnext_tiny::s0::n100",
+    "seconds": 99.12849261797965,
+    "peak_vram_gb": 2.418157056,
+    "energy_wh": 5.195538333333615,
+    "trainable_params_m": 27.823973,
+    "total_params_m": 27.823973,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "trad",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.652141543632994
+  },
+  {
+    "name": "clf::trad::vit_b16::s0::n100",
+    "seconds": 161.5923149039736,
+    "peak_vram_gb": 3.454462464,
+    "energy_wh": 9.72965333333446,
+    "trainable_params_m": 85.802501,
+    "total_params_m": 85.802501,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "trad",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.69320524839956
+  },
+  {
+    "name": "clf::trad::swin_tiny::s0::n100",
+    "seconds": 124.80924057599623,
+    "peak_vram_gb": 2.689439744,
+    "energy_wh": 6.81908972222151,
+    "trainable_params_m": 27.523199,
+    "total_params_m": 27.523199,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "trad",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.080154009599937
+  },
+  {
+    "name": "clf::ddpm_fixed::efficientnetv2_s::s0::n100",
+    "seconds": 167.48546116400394,
+    "peak_vram_gb": 2.796640768,
+    "energy_wh": 8.390723888888541,
+    "trainable_params_m": 20.183893,
+    "total_params_m": 20.183893,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.791424352733399
+  },
+  {
+    "name": "clf::ddpm_fixed::convnext_tiny::s0::n100",
+    "seconds": 143.66815071500605,
+    "peak_vram_gb": 2.418157056,
+    "energy_wh": 8.120942499999785,
+    "trainable_params_m": 27.823973,
+    "total_params_m": 27.823973,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.394469178583434
+  },
+  {
+    "name": "clf::ddpm_fixed::vit_b16::s0::n100",
+    "seconds": 241.6116241409909,
+    "peak_vram_gb": 3.454462464,
+    "energy_wh": 15.14570305555645,
+    "trainable_params_m": 85.802501,
+    "total_params_m": 85.802501,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.026860402349849
+  },
+  {
+    "name": "clf::ddpm_fixed::swin_tiny::s0::n100",
+    "seconds": 182.08562633299152,
+    "peak_vram_gb": 2.689439744,
+    "energy_wh": 10.458705555554479,
+    "trainable_params_m": 27.523199,
+    "total_params_m": 27.523199,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.034760438883192
+  },
+  {
+    "name": "clf::sd_lora::efficientnetv2_s::s0::n100",
+    "seconds": 183.71062434301712,
+    "peak_vram_gb": 2.796640768,
+    "energy_wh": 8.666669444445935,
+    "trainable_params_m": 20.183893,
+    "total_params_m": 20.183893,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.061843739050285
+  },
+  {
+    "name": "clf::sd_lora::convnext_tiny::s0::n100",
+    "seconds": 147.54352739802562,
+    "peak_vram_gb": 2.418157056,
+    "energy_wh": 8.023051111110382,
+    "trainable_params_m": 27.823973,
+    "total_params_m": 27.823973,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.4590587899670937
+  },
+  {
+    "name": "clf::sd_lora::vit_b16::s0::n100",
+    "seconds": 245.25197533899336,
+    "peak_vram_gb": 3.454462464,
+    "energy_wh": 15.181991111110483,
+    "trainable_params_m": 85.802501,
+    "total_params_m": 85.802501,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.087532922316556
+  },
+  {
+    "name": "clf::sd_lora::swin_tiny::s0::n100",
+    "seconds": 186.7102165480028,
+    "peak_vram_gb": 2.689439744,
+    "energy_wh": 10.53572055555673,
+    "trainable_params_m": 27.523199,
+    "total_params_m": 27.523199,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.1118369424667134
+  },
+  {
+    "name": "clf::oracle::efficientnetv2_s::s0::n100",
+    "seconds": 342.93494411499705,
+    "peak_vram_gb": 2.796640768,
+    "energy_wh": 15.681508611109521,
+    "trainable_params_m": 20.183893,
+    "total_params_m": 20.183893,
+    "steps": 3750,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oracle",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 5.715582401916618
+  },
+  {
+    "name": "clf::oracle::convnext_tiny::s0::n100",
+    "seconds": 281.03603162098443,
+    "peak_vram_gb": 2.418157056,
+    "energy_wh": 15.238890833335205,
+    "trainable_params_m": 27.823973,
+    "total_params_m": 27.823973,
+    "steps": 3750,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oracle",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.6839338603497405
+  },
+  {
+    "name": "clf::oracle::vit_b16::s0::n100",
+    "seconds": 442.7066856700112,
+    "peak_vram_gb": 3.454462464,
+    "energy_wh": 28.093253055554296,
+    "trainable_params_m": 85.802501,
+    "total_params_m": 85.802501,
+    "steps": 3750,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oracle",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 7.378444761166853
+  },
+  {
+    "name": "clf::oracle::swin_tiny::s0::n100",
+    "seconds": 329.1786151950073,
+    "peak_vram_gb": 2.689439744,
+    "energy_wh": 18.83907222222123,
+    "trainable_params_m": 27.523199,
+    "total_params_m": 27.523199,
+    "steps": 3750,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oracle",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 5.486310253250122
+  },
+  {
+    "name": "detect::sd_lora::Broken soybeans::n25",
+    "seconds": 11.357586845988408,
+    "peak_vram_gb": 1.630454784,
+    "energy_wh": 0.38762888888931935,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 25,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.1892931140998068
+  },
+  {
+    "name": "detect::sd_lora::Immature soybeans::n25",
+    "seconds": 8.490808548987843,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.3198380555564331,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 25,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.14151347581646406
+  },
+  {
+    "name": "detect::sd_lora::Skin-damaged soybeans::n25",
+    "seconds": 8.39956042097765,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.3251027777770327,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 25,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.13999267368296084
+  },
+  {
+    "name": "detect::sd_lora::Spotted soybeans::n25",
+    "seconds": 8.633348447008757,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.32498166666676603,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 25,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.14388914078347928
+  },
+  {
+    "name": "detect::ddpm_fixed::Broken soybeans::n25",
+    "seconds": 5.7899968890124,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.2768438888899982,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 25,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.09649994815020667
+  },
+  {
+    "name": "detect::ddpm_fixed::Immature soybeans::n25",
+    "seconds": 5.655633670015959,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.27565055555560525,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 25,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.09426056116693265
+  },
+  {
+    "name": "detect::ddpm_fixed::Skin-damaged soybeans::n25",
+    "seconds": 5.788729424006306,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.27497388888771335,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 25,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.09647882373343843
+  },
+  {
+    "name": "detect::ddpm_fixed::Spotted soybeans::n25",
+    "seconds": 5.857269323983928,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.27533333333416116,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 25,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.09762115539973214
+  },
+  {
+    "name": "detect::sd_lora::Broken soybeans::n50",
+    "seconds": 8.437380188988755,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.3221283333334658,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 50,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.14062300314981258
+  },
+  {
+    "name": "detect::sd_lora::Immature soybeans::n50",
+    "seconds": 8.45866395701887,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.31871805555497607,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 50,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.14097773261698118
+  },
+  {
+    "name": "detect::sd_lora::Skin-damaged soybeans::n50",
+    "seconds": 8.447847579984227,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.31975694444444447,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 50,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.14079745966640378
+  },
+  {
+    "name": "detect::sd_lora::Spotted soybeans::n50",
+    "seconds": 8.45314552099444,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.32190777777590684,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 50,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.14088575868324066
+  },
+  {
+    "name": "detect::ddpm_fixed::Broken soybeans::n50",
+    "seconds": 5.73890908100293,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.26931194444497425,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 50,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.09564848468338218
+  },
+  {
+    "name": "detect::ddpm_fixed::Immature soybeans::n50",
+    "seconds": 5.728988969000056,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.2706222222228017,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 50,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.09548314948333428
+  },
+  {
+    "name": "detect::ddpm_fixed::Skin-damaged soybeans::n50",
+    "seconds": 5.726494381990051,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.26920250000018214,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 50,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.09544157303316751
+  },
+  {
+    "name": "detect::ddpm_fixed::Spotted soybeans::n50",
+    "seconds": 5.721916050999425,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.27034722222222224,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 50,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.0953652675166571
+  },
+  {
+    "name": "detect::sd_lora::Broken soybeans::n100",
+    "seconds": 8.367396962014027,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.3198424999995364,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.13945661603356713
+  },
+  {
+    "name": "detect::sd_lora::Immature soybeans::n100",
+    "seconds": 8.45243704499444,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.32140638888917034,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.14087395074990733
+  },
+  {
+    "name": "detect::sd_lora::Skin-damaged soybeans::n100",
+    "seconds": 8.451753461005865,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.3180527777783573,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.1408625576834311
+  },
+  {
+    "name": "detect::sd_lora::Spotted soybeans::n100",
+    "seconds": 8.421831460000249,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.3196544444457524,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.1403638576666708
+  },
+  {
+    "name": "detect::ddpm_fixed::Broken soybeans::n100",
+    "seconds": 5.7402764259895775,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.2691563888887564,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.09567127376649295
+  },
+  {
+    "name": "detect::ddpm_fixed::Immature soybeans::n100",
+    "seconds": 5.748576995014446,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.26957166666578913,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.09580961658357409
+  },
+  {
+    "name": "detect::ddpm_fixed::Skin-damaged soybeans::n100",
+    "seconds": 5.725686892983504,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.27390444444492457,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.0954281148830584
+  },
+  {
+    "name": "detect::ddpm_fixed::Spotted soybeans::n100",
+    "seconds": 5.720518678019289,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.2708316666653587,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.09534197796698815
+  },
+  {
+    "name": "detect::dcgan::Broken soybeans::n100",
+    "seconds": 5.674394467001548,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.2718716666681899,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dcgan",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.09457324111669246
+  },
+  {
+    "name": "detect::dcgan::Immature soybeans::n100",
+    "seconds": 5.670053629990434,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.27227499999933774,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dcgan",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.09450089383317391
+  },
+  {
+    "name": "detect::dcgan::Skin-damaged soybeans::n100",
+    "seconds": 5.678979326999979,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.27216166666605407,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dcgan",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.09464965544999965
+  },
+  {
+    "name": "detect::dcgan::Spotted soybeans::n100",
+    "seconds": 5.659922413004097,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.27274583333482344,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dcgan",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.09433204021673494
+  },
+  {
+    "name": "detect::fastgan::Broken soybeans::n100",
+    "seconds": 5.697440630989149,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.2722036111106475,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "fastgan",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.09495734384981916
+  },
+  {
+    "name": "detect::fastgan::Immature soybeans::n100",
+    "seconds": 5.817929807002656,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.2727586111115913,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "fastgan",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.0969654967833776
+  },
+  {
+    "name": "detect::fastgan::Skin-damaged soybeans::n100",
+    "seconds": 5.695624743006192,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.2727230555543469,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "fastgan",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.0949270790501032
+  },
+  {
+    "name": "detect::fastgan::Spotted soybeans::n100",
+    "seconds": 5.693328196008224,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.27261888888974983,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "fastgan",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.09488880326680374
+  },
+  {
+    "name": "detect::ddpm_v1::Broken soybeans::n100",
+    "seconds": 5.723658475995762,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.2722397222225037,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_v1",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.0953943079332627
+  },
+  {
+    "name": "detect::ddpm_v1::Immature soybeans::n100",
+    "seconds": 5.721384795004269,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.2769088888892697,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_v1",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.09535641325007115
+  },
+  {
+    "name": "detect::ddpm_v1::Skin-damaged soybeans::n100",
+    "seconds": 5.727581791987177,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.2732361111106972,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_v1",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.09545969653311961
+  },
+  {
+    "name": "detect::ddpm_v1::Spotted soybeans::n100",
+    "seconds": 5.728909170022234,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.27772083333383,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_v1",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.09548181950037057
+  },
+  {
+    "name": "detect::ddpm_ft::Broken soybeans::n100",
+    "seconds": 5.714372638001805,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.27392777777587374,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_ft",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.09523954396669675
+  },
+  {
+    "name": "detect::ddpm_ft::Immature soybeans::n100",
+    "seconds": 5.713632086000871,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.2737558333348069,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_ft",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.09522720143334786
+  },
+  {
+    "name": "detect::ddpm_ft::Skin-damaged soybeans::n100",
+    "seconds": 5.719030085980194,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.27503611111185616,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_ft",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.09531716809966989
+  },
+  {
+    "name": "detect::ddpm_ft::Spotted soybeans::n100",
+    "seconds": 5.707067490002373,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.2742563888885909,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_ft",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.09511779150003956
+  },
+  {
+    "name": "detect::sd_lora_sdedit::Broken soybeans::n100",
+    "seconds": 8.215649239980849,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.3197586111124191,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora_sdedit",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.13692748733301413
+  },
+  {
+    "name": "detect::sd_lora_sdedit::Immature soybeans::n100",
+    "seconds": 8.272057544993004,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.3145755555542807,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora_sdedit",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.1378676257498834
+  },
+  {
+    "name": "detect::sd_lora_sdedit::Skin-damaged soybeans::n100",
+    "seconds": 8.260970542003633,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.31468055555596947,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora_sdedit",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.13768284236672723
+  },
+  {
+    "name": "detect::sd_lora_sdedit::Spotted soybeans::n100",
+    "seconds": 8.212493074999657,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.318474166666468,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora_sdedit",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.1368748845833276
+  },
+  {
+    "name": "detect::sd_turbo_lora::Broken soybeans::n100",
+    "seconds": 7.634535525023239,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.303303888887167,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_turbo_lora",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.1272422587503873
+  },
+  {
+    "name": "detect::sd_turbo_lora::Immature soybeans::n100",
+    "seconds": 7.492939554998884,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.30245500000193715,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_turbo_lora",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.12488232591664807
+  },
+  {
+    "name": "detect::sd_turbo_lora::Skin-damaged soybeans::n100",
+    "seconds": 7.607221131998813,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.3051613888889551,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_turbo_lora",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.12678701886664687
+  },
+  {
+    "name": "detect::sd_turbo_lora::Spotted soybeans::n100",
+    "seconds": 7.813567094010068,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.3082925000000331,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_turbo_lora",
+      "scarcity": 100,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.13022611823350114
+  },
+  {
+    "name": "detect::sd_lora::Broken soybeans::n200",
+    "seconds": 8.392820979992393,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.3190088888878624,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 200,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.1398803496665399
+  },
+  {
+    "name": "detect::sd_lora::Immature soybeans::n200",
+    "seconds": 8.492878110992024,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.32132333333500557,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 200,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.14154796851653373
+  },
+  {
+    "name": "detect::sd_lora::Skin-damaged soybeans::n200",
+    "seconds": 8.470688685018104,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.3186652777778606,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 200,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.14117814475030172
+  },
+  {
+    "name": "detect::sd_lora::Spotted soybeans::n200",
+    "seconds": 8.410450185998343,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.3200108333345916,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 200,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.14017416976663905
+  },
+  {
+    "name": "detect::ddpm_fixed::Broken soybeans::n200",
+    "seconds": 5.760819271992659,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.27422305555600257,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 200,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.096013654533211
+  },
+  {
+    "name": "detect::ddpm_fixed::Immature soybeans::n200",
+    "seconds": 5.728437457000837,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.2703213888882763,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 200,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.09547395761668061
+  },
+  {
+    "name": "detect::ddpm_fixed::Skin-damaged soybeans::n200",
+    "seconds": 5.724876345018856,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.27380027777825794,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 200,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.09541460575031427
+  },
+  {
+    "name": "detect::ddpm_fixed::Spotted soybeans::n200",
+    "seconds": 5.714820792985847,
+    "peak_vram_gb": 0.559108096,
+    "energy_wh": 0.2713513888873988,
+    "trainable_params_m": 0.0,
+    "total_params_m": 0.0,
+    "steps": 0,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 200,
+      "stage": "detect"
+    },
+    "gpu_minutes": 0.09524701321643078
+  },
+  {
+    "name": "clf::none::efficientnetv2_s::s1::n100",
+    "seconds": 233.63351146999048,
+    "peak_vram_gb": 2.796640768,
+    "energy_wh": 7.702624722222487,
+    "trainable_params_m": 20.183893,
+    "total_params_m": 20.183893,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.8938918578331747
+  },
+  {
+    "name": "clf::none::efficientnetv2_s::s2::n100",
+    "seconds": 112.73234909499297,
+    "peak_vram_gb": 2.796640768,
+    "energy_wh": 5.322135833334178,
+    "trainable_params_m": 20.183893,
+    "total_params_m": 20.183893,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8788724849165495
+  },
+  {
+    "name": "clf::none::convnext_tiny::s1::n100",
+    "seconds": 163.6478584720171,
+    "peak_vram_gb": 2.418157056,
+    "energy_wh": 6.745715277776536,
+    "trainable_params_m": 27.823973,
+    "total_params_m": 27.823973,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.727464307866952
+  },
+  {
+    "name": "clf::none::convnext_tiny::s2::n100",
+    "seconds": 95.60843866801588,
+    "peak_vram_gb": 2.418157056,
+    "energy_wh": 5.332703055555208,
+    "trainable_params_m": 27.823973,
+    "total_params_m": 27.823973,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.5934739778002647
+  },
+  {
+    "name": "clf::none::vit_b16::s1::n100",
+    "seconds": 158.5362019650056,
+    "peak_vram_gb": 3.454462464,
+    "energy_wh": 9.967304444445505,
+    "trainable_params_m": 85.802501,
+    "total_params_m": 85.802501,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.642270032750093
+  },
+  {
+    "name": "clf::none::vit_b16::s2::n100",
+    "seconds": 157.74796794797294,
+    "peak_vram_gb": 3.454462464,
+    "energy_wh": 10.032660555556003,
+    "trainable_params_m": 85.802501,
+    "total_params_m": 85.802501,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.6291327991328823
+  },
+  {
+    "name": "clf::none::swin_tiny::s1::n100",
+    "seconds": 121.17838925297838,
+    "peak_vram_gb": 2.689439744,
+    "energy_wh": 6.98214000000101,
+    "trainable_params_m": 27.523199,
+    "total_params_m": 27.523199,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.019639820882973
+  },
+  {
+    "name": "clf::none::swin_tiny::s2::n100",
+    "seconds": 120.59586918298737,
+    "peak_vram_gb": 2.689439744,
+    "energy_wh": 6.948514166666816,
+    "trainable_params_m": 27.523199,
+    "total_params_m": 27.523199,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.0099311530497896
+  },
+  {
+    "name": "clf::trad::efficientnetv2_s::s1::n100",
+    "seconds": 120.15970891297911,
+    "peak_vram_gb": 2.796640768,
+    "energy_wh": 5.577087222221825,
+    "trainable_params_m": 20.183893,
+    "total_params_m": 20.183893,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "trad",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.0026618152163187
+  },
+  {
+    "name": "clf::trad::efficientnetv2_s::s2::n100",
+    "seconds": 120.62311991298338,
+    "peak_vram_gb": 2.796640768,
+    "energy_wh": 5.546863333332456,
+    "trainable_params_m": 20.183893,
+    "total_params_m": 20.183893,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "trad",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.0103853318830565
+  },
+  {
+    "name": "clf::trad::convnext_tiny::s1::n100",
+    "seconds": 99.31212185800541,
+    "peak_vram_gb": 2.418157056,
+    "energy_wh": 5.394821944445786,
+    "trainable_params_m": 27.823973,
+    "total_params_m": 27.823973,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "trad",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.6552020309667568
+  },
+  {
+    "name": "clf::trad::convnext_tiny::s2::n100",
+    "seconds": 99.32711384200957,
+    "peak_vram_gb": 2.418157056,
+    "energy_wh": 5.42542472222199,
+    "trainable_params_m": 27.823973,
+    "total_params_m": 27.823973,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "trad",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.6554518973668262
+  },
+  {
+    "name": "clf::trad::vit_b16::s1::n100",
+    "seconds": 161.4324712610105,
+    "peak_vram_gb": 3.454462464,
+    "energy_wh": 10.030429722221776,
+    "trainable_params_m": 85.802501,
+    "total_params_m": 85.802501,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "trad",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.6905411876835084
+  },
+  {
+    "name": "clf::trad::vit_b16::s2::n100",
+    "seconds": 161.58438038200256,
+    "peak_vram_gb": 3.454462464,
+    "energy_wh": 9.9773127777771,
+    "trainable_params_m": 85.802501,
+    "total_params_m": 85.802501,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "trad",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.6930730063667094
+  },
+  {
+    "name": "clf::trad::swin_tiny::s1::n100",
+    "seconds": 124.73086220398545,
+    "peak_vram_gb": 2.689439744,
+    "energy_wh": 6.995824166666717,
+    "trainable_params_m": 27.523199,
+    "total_params_m": 27.523199,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "trad",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.0788477033997577
+  },
+  {
+    "name": "clf::trad::swin_tiny::s2::n100",
+    "seconds": 124.46045144199161,
+    "peak_vram_gb": 2.689439744,
+    "energy_wh": 6.94585611111174,
+    "trainable_params_m": 27.523199,
+    "total_params_m": 27.523199,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "trad",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.074340857366527
+  },
+  {
+    "name": "clf::ddpm_fixed::efficientnetv2_s::s1::n100",
+    "seconds": 252.51548936701147,
+    "peak_vram_gb": 2.796640768,
+    "energy_wh": 13.550948333332522,
+    "trainable_params_m": 20.183893,
+    "total_params_m": 20.183893,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.208591489450191
+  },
+  {
+    "name": "clf::ddpm_fixed::efficientnetv2_s::s2::n100",
+    "seconds": 296.7227588680107,
+    "peak_vram_gb": 2.796640768,
+    "energy_wh": 16.70532277777791,
+    "trainable_params_m": 20.183893,
+    "total_params_m": 20.183893,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.945379314466845
+  },
+  {
+    "name": "clf::ddpm_fixed::convnext_tiny::s1::n100",
+    "seconds": 278.04289845199673,
+    "peak_vram_gb": 2.418157056,
+    "energy_wh": 16.378931388888095,
+    "trainable_params_m": 27.823973,
+    "total_params_m": 27.823973,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.634048307533279
+  },
+  {
+    "name": "clf::ddpm_fixed::convnext_tiny::s2::n100",
+    "seconds": 143.5576439939905,
+    "peak_vram_gb": 2.418157056,
+    "energy_wh": 8.46557055555491,
+    "trainable_params_m": 27.823973,
+    "total_params_m": 27.823973,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.3926273998998417
+  },
+  {
+    "name": "clf::ddpm_fixed::vit_b16::s1::n100",
+    "seconds": 241.8872229520057,
+    "peak_vram_gb": 3.454462464,
+    "energy_wh": 15.870107500000547,
+    "trainable_params_m": 85.802501,
+    "total_params_m": 85.802501,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.031453715866761
+  },
+  {
+    "name": "clf::ddpm_fixed::vit_b16::s2::n100",
+    "seconds": 242.2517178520211,
+    "peak_vram_gb": 3.454462464,
+    "energy_wh": 15.903822499999983,
+    "trainable_params_m": 85.802501,
+    "total_params_m": 85.802501,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.037528630867018
+  },
+  {
+    "name": "clf::ddpm_fixed::swin_tiny::s1::n100",
+    "seconds": 182.2019701259851,
+    "peak_vram_gb": 2.689439744,
+    "energy_wh": 10.812624166667876,
+    "trainable_params_m": 27.523199,
+    "total_params_m": 27.523199,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.0366995020997516
+  },
+  {
+    "name": "clf::ddpm_fixed::swin_tiny::s2::n100",
+    "seconds": 181.76837087099557,
+    "peak_vram_gb": 2.689439744,
+    "energy_wh": 10.877752222222172,
+    "trainable_params_m": 27.523199,
+    "total_params_m": 27.523199,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.029472847849926
+  },
+  {
+    "name": "clf::sd_lora::efficientnetv2_s::s1::n100",
+    "seconds": 183.92820855599712,
+    "peak_vram_gb": 2.796640768,
+    "energy_wh": 8.743211666666385,
+    "trainable_params_m": 20.183893,
+    "total_params_m": 20.183893,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.0654701425999518
+  },
+  {
+    "name": "clf::sd_lora::efficientnetv2_s::s2::n100",
+    "seconds": 182.8390982230194,
+    "peak_vram_gb": 2.796640768,
+    "energy_wh": 8.618898055555507,
+    "trainable_params_m": 20.183893,
+    "total_params_m": 20.183893,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.04731830371699
+  },
+  {
+    "name": "clf::sd_lora::convnext_tiny::s1::n100",
+    "seconds": 147.18479986599414,
+    "peak_vram_gb": 2.418157056,
+    "energy_wh": 8.434601666666568,
+    "trainable_params_m": 27.823973,
+    "total_params_m": 27.823973,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.453079997766569
+  },
+  {
+    "name": "clf::sd_lora::convnext_tiny::s2::n100",
+    "seconds": 147.04787671100348,
+    "peak_vram_gb": 2.418157056,
+    "energy_wh": 8.492699444445057,
+    "trainable_params_m": 27.823973,
+    "total_params_m": 27.823973,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.4507979451833912
+  },
+  {
+    "name": "clf::sd_lora::vit_b16::s1::n100",
+    "seconds": 245.38048354300554,
+    "peak_vram_gb": 3.454462464,
+    "energy_wh": 15.887670277777232,
+    "trainable_params_m": 85.802501,
+    "total_params_m": 85.802501,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.089674725716759
+  },
+  {
+    "name": "clf::sd_lora::vit_b16::s2::n100",
+    "seconds": 245.98451398100588,
+    "peak_vram_gb": 3.454462464,
+    "energy_wh": 15.938579444444429,
+    "trainable_params_m": 85.802501,
+    "total_params_m": 85.802501,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.099741899683432
+  },
+  {
+    "name": "clf::sd_lora::swin_tiny::s1::n100",
+    "seconds": 186.51549630900263,
+    "peak_vram_gb": 2.689439744,
+    "energy_wh": 10.996313611111708,
+    "trainable_params_m": 27.523199,
+    "total_params_m": 27.523199,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.108591605150044
+  },
+  {
+    "name": "clf::sd_lora::swin_tiny::s2::n100",
+    "seconds": 185.55035721100285,
+    "peak_vram_gb": 2.689439744,
+    "energy_wh": 10.944396944443385,
+    "trainable_params_m": 27.523199,
+    "total_params_m": 27.523199,
+    "steps": 1950,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "sd_lora",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.092505953516714
+  },
+  {
+    "name": "clf::oracle::efficientnetv2_s::s1::n100",
+    "seconds": 342.37620195999625,
+    "peak_vram_gb": 2.796640768,
+    "energy_wh": 16.413956388889087,
+    "trainable_params_m": 20.183893,
+    "total_params_m": 20.183893,
+    "steps": 3750,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oracle",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 5.7062700326666045
+  },
+  {
+    "name": "clf::oracle::efficientnetv2_s::s2::n100",
+    "seconds": 300.2710415290203,
+    "peak_vram_gb": 2.796640768,
+    "energy_wh": 15.652986944444063,
+    "trainable_params_m": 20.183893,
+    "total_params_m": 20.183893,
+    "steps": 3750,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oracle",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 5.004517358817005
+  },
+  {
+    "name": "clf::oracle::convnext_tiny::s1::n100",
+    "seconds": 280.2877210860024,
+    "peak_vram_gb": 2.418157056,
+    "energy_wh": 15.950012777778838,
+    "trainable_params_m": 27.823973,
+    "total_params_m": 27.823973,
+    "steps": 3750,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oracle",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.671462018100041
+  },
+  {
+    "name": "clf::oracle::convnext_tiny::s2::n100",
+    "seconds": 256.89992387001985,
+    "peak_vram_gb": 2.418157056,
+    "energy_wh": 15.595976388889055,
+    "trainable_params_m": 27.823973,
+    "total_params_m": 27.823973,
+    "steps": 3750,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oracle",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.281665397833664
+  },
+  {
+    "name": "clf::oracle::vit_b16::s1::n100",
+    "seconds": 442.9327114960179,
+    "peak_vram_gb": 3.454462464,
+    "energy_wh": 29.628909166666368,
+    "trainable_params_m": 85.802501,
+    "total_params_m": 85.802501,
+    "steps": 3750,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oracle",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 7.382211858266965
+  },
+  {
+    "name": "clf::oracle::vit_b16::s2::n100",
+    "seconds": 443.23950652600615,
+    "peak_vram_gb": 3.454462464,
+    "energy_wh": 30.05580500000053,
+    "trainable_params_m": 85.802501,
+    "total_params_m": 85.802501,
+    "steps": 3750,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oracle",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 7.3873251087667695
+  },
+  {
+    "name": "clf::oracle::swin_tiny::s1::n100",
+    "seconds": 328.91936748300213,
+    "peak_vram_gb": 2.689439744,
+    "energy_wh": 20.192359444445206,
+    "trainable_params_m": 27.523199,
+    "total_params_m": 27.523199,
+    "steps": 3750,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oracle",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 5.481989458050036
+  },
+  {
+    "name": "clf::none::resnet50::s0::n100",
+    "seconds": 225.30642243599868,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 13.589871666665292,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1200,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 100,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.7551070405999782
+  },
+  {
+    "name": "clf::none::resnet50::s0::n25",
+    "seconds": 242.43844697400345,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 14.366040833333715,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.0406407829000575
+  },
+  {
+    "name": "clf::none::resnet50::s1::n25",
+    "seconds": 170.72123827799805,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 10.20554999999909,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.8453539712999674
+  },
+  {
+    "name": "clf::none::resnet50::s2::n25",
+    "seconds": 134.0973425769771,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.853558888888608,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.234955709616285
+  },
+  {
+    "name": "clf::none::resnet50::s3::n25",
+    "seconds": 155.5677054009866,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 9.166951666666815,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.5927950900164434
+  },
+  {
+    "name": "clf::none::resnet50::s4::n25",
+    "seconds": 162.17163650499424,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 9.518931666666434,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.7028606084165707
+  },
+  {
+    "name": "clf::none::resnet50::s5::n25",
+    "seconds": 152.02544705400942,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 8.99692944444509,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.533757450900157
+  },
+  {
+    "name": "clf::none::resnet50::s6::n25",
+    "seconds": 174.67819774302188,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 10.392709166666286,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.9113032957170315
+  },
+  {
+    "name": "clf::none::resnet50::s7::n25",
+    "seconds": 139.9727558690065,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 8.077077777776868,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.332879264483442
+  },
+  {
+    "name": "clf::none::resnet50::s8::n25",
+    "seconds": 139.88305170400417,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 8.107422777778572,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.3313841950667364
+  },
+  {
+    "name": "clf::none::resnet50::s9::n25",
+    "seconds": 140.83222897999804,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 8.264286944443981,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.3472038163333004
+  },
+  {
+    "name": "clf::dup::resnet50::s0::n25",
+    "seconds": 291.90801390400156,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 17.40187472222166,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.865133565066693
+  },
+  {
+    "name": "clf::dup::resnet50::s1::n25",
+    "seconds": 239.26723758201115,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 14.15171555555529,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.987787293033519
+  },
+  {
+    "name": "clf::dup::resnet50::s2::n25",
+    "seconds": 292.55457815201953,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 17.48891638889081,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.875909635866992
+  },
+  {
+    "name": "clf::dup::resnet50::s3::n25",
+    "seconds": 297.6710931160196,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 17.74937138888778,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.961184885266993
+  },
+  {
+    "name": "clf::dup::resnet50::s4::n25",
+    "seconds": 299.60034698300296,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 17.81520361111189,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.993339116383383
+  },
+  {
+    "name": "clf::dup::resnet50::s5::n25",
+    "seconds": 291.90368464699714,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 17.39444972222257,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.8650614107832855
+  },
+  {
+    "name": "clf::dup::resnet50::s6::n25",
+    "seconds": 299.64087060597376,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 17.857103611110812,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.9940145100995625
+  },
+  {
+    "name": "clf::dup::resnet50::s7::n25",
+    "seconds": 302.01856422098354,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 18.02250027777834,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 5.033642737016392
+  },
+  {
+    "name": "clf::dup::resnet50::s8::n25",
+    "seconds": 298.63096067498554,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 17.83612388888788,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.977182677916426
+  },
+  {
+    "name": "clf::dup::resnet50::s9::n25",
+    "seconds": 288.3203623229929,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 17.217395555554994,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.805339372049882
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s0::n25",
+    "seconds": 306.9169353659963,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 18.368751944444245,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 5.115282256099939
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s1::n25",
+    "seconds": 310.1823451590026,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 18.545245277778143,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 5.169705752650043
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s2::n25",
+    "seconds": 307.028984789009,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 18.358285833332275,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 5.1171497464834825
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s3::n25",
+    "seconds": 298.89770297598443,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 17.889040277778275,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.981628382933073
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s4::n25",
+    "seconds": 308.32457301102113,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 18.470078611111063,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 5.138742883517019
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s5::n25",
+    "seconds": 309.2862723709841,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 18.50168083333307,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 5.154771206183068
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s6::n25",
+    "seconds": 292.6060560150072,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 17.45833138888909,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.87676760025012
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s7::n25",
+    "seconds": 304.1028496790095,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 18.202442777777712,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 5.068380827983492
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s8::n25",
+    "seconds": 291.0964723470097,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 17.373734999998575,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.8516078724501615
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s9::n25",
+    "seconds": 302.5420324759907,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 18.077998055556996,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 5.042367207933179
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s0::n25",
+    "seconds": 304.9923700490035,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 18.19624583333317,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 5.083206167483392
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s1::n25",
+    "seconds": 290.99966259798384,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 17.398486944445306,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.849994376633064
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s2::n25",
+    "seconds": 304.2626237079967,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 18.18291472222242,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 5.071043728466611
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s3::n25",
+    "seconds": 302.7980146170012,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 18.06389888888846,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 5.046633576950019
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s4::n25",
+    "seconds": 289.8660676770087,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 17.261373333332852,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.831101127950145
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s5::n25",
+    "seconds": 305.66396984198946,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 18.238540277777034,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 5.094399497366491
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s6::n25",
+    "seconds": 292.65223169798264,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 17.405313055556682,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 4.8775371949663775
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s7::n25",
+    "seconds": 306.4436552330153,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 18.302334999998823,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 5.107394253883588
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s8::n25",
+    "seconds": 306.27875874500023,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 18.31309138888907,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 5.104645979083338
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s9::n25",
+    "seconds": 306.4633939539781,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 18.286306666667677,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1680,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 5.107723232566301
+  },
+  {
+    "name": "clf::weighted::resnet50::s0::n25",
+    "seconds": 177.54018203899614,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 10.546079999999039,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.959003033983269
+  },
+  {
+    "name": "clf::weighted::resnet50::s1::n25",
+    "seconds": 190.3261555049976,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 11.229291388889154,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.17210259174996
+  },
+  {
+    "name": "clf::weighted::resnet50::s2::n25",
+    "seconds": 187.7032258049876,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 11.101921666666037,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.128387096749793
+  },
+  {
+    "name": "clf::weighted::resnet50::s3::n25",
+    "seconds": 188.72989529298502,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 11.18589361111116,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.145498254883084
+  },
+  {
+    "name": "clf::weighted::resnet50::s4::n25",
+    "seconds": 190.18605413698242,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 11.257693333333979,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.169767568949707
+  },
+  {
+    "name": "clf::weighted::resnet50::s5::n25",
+    "seconds": 189.66127964897896,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 11.2417694444437,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.161021327482983
+  },
+  {
+    "name": "clf::weighted::resnet50::s6::n25",
+    "seconds": 186.75703882001108,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 11.043553888888823,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.1126173136668513
+  },
+  {
+    "name": "clf::weighted::resnet50::s7::n25",
+    "seconds": 186.9786178469949,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 11.070795833333912,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.116310297449915
+  },
+  {
+    "name": "clf::weighted::resnet50::s8::n25",
+    "seconds": 186.32600839799852,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 11.044560277776586,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.1054334732999753
+  },
+  {
+    "name": "clf::weighted::resnet50::s9::n25",
+    "seconds": 187.59239718999015,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 10.94125638888942,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.1265399531665024
+  },
+  {
+    "name": "clf::oversample::resnet50::s0::n25",
+    "seconds": 187.03468581900233,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 10.788951666667643,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.117244763650039
+  },
+  {
+    "name": "clf::oversample::resnet50::s1::n25",
+    "seconds": 198.32541162500274,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 11.652943333333566,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.305423527083379
+  },
+  {
+    "name": "clf::oversample::resnet50::s2::n25",
+    "seconds": 200.80707443802385,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 11.833626111110465,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.346784573967064
+  },
+  {
+    "name": "clf::oversample::resnet50::s3::n25",
+    "seconds": 201.9026368430059,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 11.871211944443898,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.3650439473834317
+  },
+  {
+    "name": "clf::oversample::resnet50::s4::n25",
+    "seconds": 198.25205568701494,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 11.693357222223034,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.3042009281169156
+  },
+  {
+    "name": "clf::oversample::resnet50::s5::n25",
+    "seconds": 193.24145187300746,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 11.37500333333181,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.220690864550124
+  },
+  {
+    "name": "clf::oversample::resnet50::s6::n25",
+    "seconds": 189.59282910899492,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 11.59260166666781,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.159880485149915
+  },
+  {
+    "name": "clf::oversample::resnet50::s7::n25",
+    "seconds": 198.8988491279888,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 12.435717499999123,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.314980818799813
+  },
+  {
+    "name": "clf::oversample::resnet50::s8::n25",
+    "seconds": 193.61556600101176,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 12.086410277777661,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.2269261000168625
+  },
+  {
+    "name": "clf::oversample::resnet50::s9::n25",
+    "seconds": 195.14698014300666,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 12.176311111112849,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 930,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 25,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.252449669050111
+  },
+  {
+    "name": "clf::none::resnet50::s0::n50",
+    "seconds": 223.06092977299704,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 13.919726944445737,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.717682162883284
+  },
+  {
+    "name": "clf::none::resnet50::s1::n50",
+    "seconds": 197.9350573209813,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 12.322706944443699,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.2989176220163547
+  },
+  {
+    "name": "clf::none::resnet50::s2::n50",
+    "seconds": 199.0895315349917,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 12.388762777778837,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.318158858916528
+  },
+  {
+    "name": "clf::none::resnet50::s3::n50",
+    "seconds": 197.42368494500988,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 12.277913055554446,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.290394749083498
+  },
+  {
+    "name": "clf::none::resnet50::s4::n50",
+    "seconds": 198.76935154697276,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 12.353376944443832,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.312822525782879
+  },
+  {
+    "name": "clf::none::resnet50::s5::n50",
+    "seconds": 198.27666354298708,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 12.324722500000563,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.3046110590497846
+  },
+  {
+    "name": "clf::none::resnet50::s6::n50",
+    "seconds": 198.93345721598598,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 12.259306111112236,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.315557620266433
+  },
+  {
+    "name": "clf::none::resnet50::s7::n50",
+    "seconds": 198.47380519402213,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 12.196050277776603,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.307896753233702
+  },
+  {
+    "name": "clf::none::resnet50::s8::n50",
+    "seconds": 200.7011066150153,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 12.452284444444295,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.3450184435835886
+  },
+  {
+    "name": "clf::none::resnet50::s9::n50",
+    "seconds": 149.75387115997728,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 9.45178333333383,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.495897852666288
+  },
+  {
+    "name": "clf::dup::resnet50::s0::n50",
+    "seconds": 197.0789561580168,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 12.025004722221444,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.2846492693002802
+  },
+  {
+    "name": "clf::dup::resnet50::s1::n50",
+    "seconds": 214.70449044698034,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 13.079015833333962,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.578408174116339
+  },
+  {
+    "name": "clf::dup::resnet50::s2::n50",
+    "seconds": 213.24105386200245,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 13.359046111111011,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.5540175643667076
+  },
+  {
+    "name": "clf::dup::resnet50::s3::n50",
+    "seconds": 210.5584309490223,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 13.213582222221627,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 3.5093071824837048
+  },
+  {
+    "name": "clf::dup::resnet50::s4::n50",
+    "seconds": 159.03773774800356,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 6.755045833333085,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.650628962466726
+  },
+  {
+    "name": "clf::dup::resnet50::s5::n50",
+    "seconds": 108.05019324098248,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.89213666666713,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8008365540163747
+  },
+  {
+    "name": "clf::dup::resnet50::s6::n50",
+    "seconds": 108.62842913001077,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.924236388889452,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8104738188335128
+  },
+  {
+    "name": "clf::dup::resnet50::s7::n50",
+    "seconds": 107.89272445900133,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.917034166666369,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.7982120743166887
+  },
+  {
+    "name": "clf::dup::resnet50::s8::n50",
+    "seconds": 108.09584690298652,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.921522499999653,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8015974483831088
+  },
+  {
+    "name": "clf::dup::resnet50::s9::n50",
+    "seconds": 108.13066923600854,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.919706944444528,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8021778206001424
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s0::n50",
+    "seconds": 108.08418884701678,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.921424722222405,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8014031474502796
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s1::n50",
+    "seconds": 108.55402291400242,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.925682499998559,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8092337152333735
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s2::n50",
+    "seconds": 108.28920515999198,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.919920000001374,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8048200859998664
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s3::n50",
+    "seconds": 108.34682994399918,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.922590000000265,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.805780499066653
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s4::n50",
+    "seconds": 108.45017245499184,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.9268983333330185,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.807502874249864
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s5::n50",
+    "seconds": 107.98206646399922,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.914421666666038,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.7997011077333203
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s6::n50",
+    "seconds": 108.57211786598782,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.929967777778705,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8095352977664636
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s7::n50",
+    "seconds": 108.4655497049971,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.926568611111078,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8077591617499518
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s8::n50",
+    "seconds": 108.6679811970098,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.928663333333615,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8111330199501632
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s9::n50",
+    "seconds": 108.7022609639971,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.931221111110515,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8117043493999518
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s0::n50",
+    "seconds": 108.35372614199878,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.922469166668339,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8058954356999797
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s1::n50",
+    "seconds": 108.23154416799662,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.919084722221726,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8038590694666103
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s2::n50",
+    "seconds": 108.33245631799218,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.924377777777198,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.805540938633203
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s3::n50",
+    "seconds": 108.37294570801896,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.9266069444455205,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.806215761800316
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s4::n50",
+    "seconds": 108.44065324400435,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.931080833331992,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8073442207334058
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s5::n50",
+    "seconds": 108.23971735700616,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.923536944445223,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8039952892834359
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s6::n50",
+    "seconds": 108.84605682900292,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.929298611111525,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8141009471500487
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s7::n50",
+    "seconds": 108.29757469100878,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.9185527777775295,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8049595781834795
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s8::n50",
+    "seconds": 108.39005079999333,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.920588611111873,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8065008466665555
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s9::n50",
+    "seconds": 108.59012791197165,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.9192933333334,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1770,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8098354651995274
+  },
+  {
+    "name": "clf::weighted::resnet50::s0::n50",
+    "seconds": 72.78851941402536,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 3.694461666666385,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.213141990233756
+  },
+  {
+    "name": "clf::weighted::resnet50::s1::n50",
+    "seconds": 72.63256169599481,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 3.681335277776751,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.2105426949332467
+  },
+  {
+    "name": "clf::weighted::resnet50::s2::n50",
+    "seconds": 72.7539435980143,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 3.6819680555537344,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.2125657266335716
+  },
+  {
+    "name": "clf::weighted::resnet50::s3::n50",
+    "seconds": 72.60493759100791,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 3.6791833333339956,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.2100822931834652
+  },
+  {
+    "name": "clf::weighted::resnet50::s4::n50",
+    "seconds": 72.58593484997982,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 3.677078055555208,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.209765580832997
+  },
+  {
+    "name": "clf::weighted::resnet50::s5::n50",
+    "seconds": 72.7546738240053,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 3.6810374999998343,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.212577897066755
+  },
+  {
+    "name": "clf::weighted::resnet50::s6::n50",
+    "seconds": 72.59754793901811,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 3.676439166667147,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.2099591323169685
+  },
+  {
+    "name": "clf::weighted::resnet50::s7::n50",
+    "seconds": 72.51900867698714,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 3.6772402777771154,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.2086501446164524
+  },
+  {
+    "name": "clf::weighted::resnet50::s8::n50",
+    "seconds": 73.01469395699678,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 3.68344777777791,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.2169115659499463
+  },
+  {
+    "name": "clf::weighted::resnet50::s9::n50",
+    "seconds": 72.88067759902333,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 3.681432777777728,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.214677959983722
+  },
+  {
+    "name": "clf::oversample::resnet50::s0::n50",
+    "seconds": 81.60786194298998,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 3.849365277776702,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.3601310323831663
+  },
+  {
+    "name": "clf::oversample::resnet50::s1::n50",
+    "seconds": 81.33254294202197,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 3.805276944444825,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.355542382367033
+  },
+  {
+    "name": "clf::oversample::resnet50::s2::n50",
+    "seconds": 81.70219105301658,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 3.7989625000001657,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.361703184216943
+  },
+  {
+    "name": "clf::oversample::resnet50::s3::n50",
+    "seconds": 80.99591809499543,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 3.775721111111343,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.3499319682499238
+  },
+  {
+    "name": "clf::oversample::resnet50::s4::n50",
+    "seconds": 81.0351093270001,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 3.777466666665342,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.3505851554500017
+  },
+  {
+    "name": "clf::oversample::resnet50::s5::n50",
+    "seconds": 81.27380792898475,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 3.7865947222233647,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.3545634654830792
+  },
+  {
+    "name": "clf::oversample::resnet50::s6::n50",
+    "seconds": 81.54198155799531,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 3.786798611111525,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.3590330259665886
+  },
+  {
+    "name": "clf::oversample::resnet50::s7::n50",
+    "seconds": 81.06476425900473,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 3.784572777779152,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.3510794043167456
+  },
+  {
+    "name": "clf::oversample::resnet50::s8::n50",
+    "seconds": 81.09551195899257,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 3.786869444443534,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.3515918659832096
+  },
+  {
+    "name": "clf::oversample::resnet50::s9::n50",
+    "seconds": 81.55736701900605,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 3.801494722221461,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1020,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 50,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.3592894503167676
+  },
+  {
+    "name": "clf::none::resnet50::s0::n200",
+    "seconds": 115.17083061399171,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.541323055554595,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.9195138435665284
+  },
+  {
+    "name": "clf::none::resnet50::s1::n200",
+    "seconds": 99.5539401069982,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.265187500001241,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.6592323351166367
+  },
+  {
+    "name": "clf::none::resnet50::s2::n200",
+    "seconds": 99.42759900499368,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.268388333333036,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.657126650083228
+  },
+  {
+    "name": "clf::none::resnet50::s3::n200",
+    "seconds": 99.64146043799701,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.2726380555559365,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.6606910072999501
+  },
+  {
+    "name": "clf::none::resnet50::s4::n200",
+    "seconds": 99.60288470599335,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.2728125,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.6600480784332226
+  },
+  {
+    "name": "clf::none::resnet50::s5::n200",
+    "seconds": 99.42862411198439,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.2715783333323065,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.6571437351997398
+  },
+  {
+    "name": "clf::none::resnet50::s6::n200",
+    "seconds": 99.17354583999258,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.2674641666664845,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.6528924306665431
+  },
+  {
+    "name": "clf::none::resnet50::s7::n200",
+    "seconds": 99.51106869801879,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.272401666668141,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.6585178116336465
+  },
+  {
+    "name": "clf::none::resnet50::s8::n200",
+    "seconds": 99.5864928800147,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.271669166665524,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.6597748813335784
+  },
+  {
+    "name": "clf::none::resnet50::s9::n200",
+    "seconds": 99.41904859498027,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.268753888888492,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "none",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.656984143249671
+  },
+  {
+    "name": "clf::dup::resnet50::s0::n200",
+    "seconds": 137.889109982003,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.495769722223696,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.298151833033383
+  },
+  {
+    "name": "clf::dup::resnet50::s1::n200",
+    "seconds": 137.71145353501197,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.503583055554579,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.2951908922501993
+  },
+  {
+    "name": "clf::dup::resnet50::s2::n200",
+    "seconds": 138.15269463398727,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.514498611111194,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.3025449105664544
+  },
+  {
+    "name": "clf::dup::resnet50::s3::n200",
+    "seconds": 137.68071297099232,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.499048333333598,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.2946785495165387
+  },
+  {
+    "name": "clf::dup::resnet50::s4::n200",
+    "seconds": 138.09948841898586,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.509049166666551,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.301658140316431
+  },
+  {
+    "name": "clf::dup::resnet50::s5::n200",
+    "seconds": 137.79959256298025,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.499401111110217,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.296659876049671
+  },
+  {
+    "name": "clf::dup::resnet50::s6::n200",
+    "seconds": 137.74618249799823,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.496718888889171,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.2957697082999706
+  },
+  {
+    "name": "clf::dup::resnet50::s7::n200",
+    "seconds": 137.9592090420192,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.496537777777347,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.29932015070032
+  },
+  {
+    "name": "clf::dup::resnet50::s8::n200",
+    "seconds": 137.87497965898365,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.496762500001738,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.2979163276497276
+  },
+  {
+    "name": "clf::dup::resnet50::s9::n200",
+    "seconds": 138.20478724400164,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.504890555555208,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dup",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.3034131207333606
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s0::n200",
+    "seconds": 137.9533517610107,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.505575000000083,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.2992225293501787
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s1::n200",
+    "seconds": 137.78712639797595,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.499333333333747,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.2964521066329326
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s2::n200",
+    "seconds": 138.34512027501478,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.5083827777765695,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.3057520045835798
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s3::n200",
+    "seconds": 137.6955449829984,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.494690277777198,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.29492574971664
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s4::n200",
+    "seconds": 138.06891353000537,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.499545555555572,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.301148558833423
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s5::n200",
+    "seconds": 137.72415391899995,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.494802222222917,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.2954025653166656
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s6::n200",
+    "seconds": 138.03512777001015,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.49899111111131,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.3005854628335025
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s7::n200",
+    "seconds": 137.9082597560191,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.498143055554893,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.2984709959336516
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s8::n200",
+    "seconds": 137.52773303800495,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.493930833333482,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.292128883966749
+  },
+  {
+    "name": "clf::dupshuf::resnet50::s9::n200",
+    "seconds": 137.86850029000198,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.498672777778572,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "dupshuf",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.2978083381666994
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s0::n200",
+    "seconds": 137.44475561002037,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.486557777776486,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.2907459268336727
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s1::n200",
+    "seconds": 137.78096697601723,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.489020555555406,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.296349449600287
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s2::n200",
+    "seconds": 137.97927299901494,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.486556666667263,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.299654549983582
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s3::n200",
+    "seconds": 138.06529433300602,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.487486666666551,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.3010882388834335
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s4::n200",
+    "seconds": 137.95385793500463,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.56841722222045,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.2992309655834107
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s5::n200",
+    "seconds": 137.83940959599568,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.466360000001473,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.2973234932665947
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s6::n200",
+    "seconds": 137.7503840769932,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.477629722222272,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.2958397346165538
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s7::n200",
+    "seconds": 137.97774108999874,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.486810833333681,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.299629018166646
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s8::n200",
+    "seconds": 138.0478808619955,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.493431944445604,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.300798014366592
+  },
+  {
+    "name": "clf::ddpm_fixed::resnet50::s9::n200",
+    "seconds": 137.71396142800222,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 7.484370555554827,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 2340,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "ddpm_fixed",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 2.2952326904667038
+  },
+  {
+    "name": "clf::weighted::resnet50::s0::n200",
+    "seconds": 102.93302367601427,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 5.316511111110449,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.715550394600238
+  },
+  {
+    "name": "clf::weighted::resnet50::s1::n200",
+    "seconds": 102.96292585000629,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 5.315771666667942,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.7160487641667714
+  },
+  {
+    "name": "clf::weighted::resnet50::s2::n200",
+    "seconds": 103.05288113898132,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 5.318642777777795,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.717548018983022
+  },
+  {
+    "name": "clf::weighted::resnet50::s3::n200",
+    "seconds": 102.66904889600119,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 5.3125911111115585,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.7111508149333532
+  },
+  {
+    "name": "clf::weighted::resnet50::s4::n200",
+    "seconds": 102.8332983799919,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 5.312584722222139,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.7138883063331984
+  },
+  {
+    "name": "clf::weighted::resnet50::s5::n200",
+    "seconds": 102.98135933600133,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 5.318544722222206,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.7163559889333555
+  },
+  {
+    "name": "clf::weighted::resnet50::s6::n200",
+    "seconds": 102.94120243799989,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 5.323454166667329,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.7156867072999982
+  },
+  {
+    "name": "clf::weighted::resnet50::s7::n200",
+    "seconds": 103.15645177001716,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 5.3282741666647295,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.7192741961669527
+  },
+  {
+    "name": "clf::weighted::resnet50::s8::n200",
+    "seconds": 102.86582677499973,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 5.32010527777796,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.7144304462499955
+  },
+  {
+    "name": "clf::weighted::resnet50::s9::n200",
+    "seconds": 102.91727547798655,
+    "peak_vram_gb": 1.77890816,
+    "energy_wh": 5.315916388889567,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "weighted",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.7152879246331092
+  },
+  {
+    "name": "clf::oversample::resnet50::s0::n200",
+    "seconds": 111.15839515102562,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.451587777777265,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8526399191837604
+  },
+  {
+    "name": "clf::oversample::resnet50::s1::n200",
+    "seconds": 111.30361266998807,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.447250277776685,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8550602111664678
+  },
+  {
+    "name": "clf::oversample::resnet50::s2::n200",
+    "seconds": 110.93661529000383,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.441338888888971,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8489435881667304
+  },
+  {
+    "name": "clf::oversample::resnet50::s3::n200",
+    "seconds": 111.4962510089972,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.448100555555688,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8582708501499534
+  },
+  {
+    "name": "clf::oversample::resnet50::s4::n200",
+    "seconds": 110.74427836001269,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.435589166666484,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8457379726668781
+  },
+  {
+    "name": "clf::oversample::resnet50::s5::n200",
+    "seconds": 111.50535776899778,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.450338611110217,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8584226294832964
+  },
+  {
+    "name": "clf::oversample::resnet50::s6::n200",
+    "seconds": 110.99194223401719,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.440249166666634,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8498657039002864
+  },
+  {
+    "name": "clf::oversample::resnet50::s7::n200",
+    "seconds": 111.00180319100036,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.445913333334029,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8500300531833394
+  },
+  {
+    "name": "clf::oversample::resnet50::s8::n200",
+    "seconds": 111.31856950098881,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.4542786111103165,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.855309491683147
+  },
+  {
+    "name": "clf::oversample::resnet50::s9::n200",
+    "seconds": 111.16886248099036,
+    "peak_vram_gb": 1.778907648,
+    "energy_wh": 5.4470916666669975,
+    "trainable_params_m": 23.518277,
+    "total_params_m": 23.518277,
+    "steps": 1590,
+    "device": "NVIDIA A10G",
+    "extra": {
+      "method": "oversample",
+      "scarcity": 200,
+      "stage": "classifier"
+    },
+    "gpu_minutes": 1.8528143746831727
+  }
+]

@@ -1,0 +1,55 @@
+claim,paper,reproduced,match
+T2 FID sd_lora_sdedit,31.52,31.52,yes
+T2 FID ddpm_v1,50.67,50.67,yes
+T2 FID ddpm_ft,54.25,54.25,yes
+T2 FID ddpm_fixed,63.85,63.85,yes
+T2 FID sd_lora,66.50,66.50,yes
+T2 FID sd_turbo_lora,82.44,82.44,yes
+T2 FID dcgan,122.80,122.80,yes
+T2 FID fastgan,275.61,275.61,yes
+T2 dF1 sd_lora_sdedit (pp),6.98,6.98,yes
+T2 dF1 ddpm_v1 (pp),4.05,4.05,yes
+T2 dF1 ddpm_ft (pp),4.55,4.55,yes
+T2 dF1 ddpm_fixed (pp),6.68,6.68,yes
+T2 dF1 sd_lora (pp),5.64,5.64,yes
+T2 dF1 sd_turbo_lora (pp),5.86,5.86,yes
+T2 dF1 dcgan (pp),3.18,3.18,yes
+T2 dF1 fastgan (pp),7.11,7.11,yes
+"Spearman rho(FID, utility), 8 generators",0.071,0.071,yes
+number of generator configurations,8,8,yes
+pooled FID generated images (N),1600,1600,yes
+pooled FID real images (N),2000,2000,yes
+classifier training runs per condition,3,3,yes
+min LPIPS to nearest real training image,0.264,0.264,yes
+generated images below LPIPS 0.15,0,0,yes
+Fig 5 closest pair 2,0.270,0.270,yes
+Fig 5 closest pair 3,0.270,0.270,yes
+Fig 5 closest pair 4,0.301,0.301,yes
+Fig 5 closest pair 5,0.308,0.308,yes
+Fig 5 closest pair 6,0.313,0.313,yes
+Fig 5 closest pair 7,0.322,0.322,yes
+Fig 5 closest pair 8,0.324,0.324,yes
+detector AUC ddpm_fixed,1.000,1.000,yes
+detector AUC sd_lora_sdedit,0.999,0.999,yes
+"real-vs-real FID, N=100",69.05,69.05,yes
+"real-vs-real FID, N=200",48.76,48.76,yes
+"real-vs-real FID, N=500",28.01,28.01,yes
+"real-vs-real FID, N=1000",16.70,16.70,yes
+sampler DDPM 1000 steps FID,107.7,107.7,yes
+sampler DDPM 1000 steps output std,0.589,0.589,yes
+sampler DDPM 500 steps FID,109.6,109.6,yes
+sampler DDPM 500 steps output std,0.576,0.576,yes
+sampler DDIM 100 steps FID,148.0,148.0,yes
+sampler DPM-Solver++ output std,245.631,245.631,yes
+sampler DPM-Solver++ saturated pixels (%),99.7,99.7,yes
+sampler DPM-Solver++ FID,352.1,352.1,yes
+GPU-minutes FastGAN,3.7,3.7,yes
+GPU-minutes repaired DDPM,397.4,397.4,yes
+GPU-minutes SD LoRA,57.6,57.6,yes
+total GPU-hours,42.6,42.6,yes
+repaired DDPM resolution,128,128,yes
+repaired DDPM training steps,8500,8500,yes
+condition dropout,0.10,0.10,yes
+guidance strength,2,2,yes
+production sampling steps,500,500,yes
+soybean corpus size (images),5513,5513,yes

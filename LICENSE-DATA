@@ -1,0 +1,13 @@
+The result files in this repository -- everything under results/ and outputs/
+(run records, tables, figures) -- are licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0).
+
+    https://creativecommons.org/licenses/by/4.0/
+
+Source code is licensed separately, under the MIT licence in LICENSE.
+
+The seed image corpus is NOT redistributed here and is not covered by this
+licence. It remains under the terms set by its publisher:
+
+  Soybean seeds: Mendeley Data, https://doi.org/10.17632/v6vzvfszj6.6
+                 (Kaggle mirror: warcoder/soyabean-seeds)
