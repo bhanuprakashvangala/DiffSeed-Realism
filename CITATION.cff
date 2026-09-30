@@ -1,5 +1,6 @@
 cff-version: 1.2.0
 title: >-
+repository-code: "https://github.com/bhanuprakashvangala/DiffSeed-Realism"
   Visual Realism Does Not Predict Seed-Quality Utility in AI-Generated
   Synthetic Seeds
 message: >-
